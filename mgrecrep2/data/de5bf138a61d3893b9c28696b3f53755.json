@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "593086164ccb27b0c7f788b1",
+    "modelname": "hints",
+    "__v": 0,
+    "domain": "hints",
+    "mongoosemodelname": "hint",
+    "collectionname": "hints",
+    "props": {
+      "hints": {
+        "_m_category": "hints",
+        "trim": true,
+        "type": "String"
+      }
+    },
+    "index": {}
+  }
+]

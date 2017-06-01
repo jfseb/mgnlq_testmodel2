@@ -1,0 +1,23 @@
+
+    digraph sdsu {
+	size="36,36";
+   rankdir=LR
+	node [color=yellow, style=filled];
+    "TWF"
+  node [shape=record, color=yellow, style=filled];
+ "field description" [label="{ field description | 175 Values in 178  }"]
+"fieldId" [label="{ fieldId | 189 Values in 189  }"]
+"fieldName" [label="{ fieldName | 189 Values in 189  }"]
+node [color=purple, style=filled]; 
+node [shape=record]; 
+ "record" [label="{<f0> TWF | 189}"] 
+ "r_other" [label="{<f0> other | 189}"] 
+ # relation from categories to domain
+ "field description" -> "TWF" 
+ "fieldId" -> "TWF" 
+ "fieldName" -> "TWF" 
+# relation from categories to records
+ "field description" -> "record" 
+ "fieldId" -> "record" 
+ "fieldName" -> "record" 
+}
