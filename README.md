@@ -1,4 +1,4 @@
-# mgnlq_testmodel2 [![Build Status](https://travis-ci.org/jfseb/mgnlq_testmodel2.svg?branch=master)](https://travis-ci.org/jfseb/mgnlq_testmodel2)[![Coverage Status](https://coveralls.io/repos/github/jfseb/mgnlq_testmodel2/badge.svg)](https://coveralls.io/github/jfseb/mgnql_testmodel2)
+# mgnlq_testmodel2 [![Build Status](https://travis-ci.org/jfseb/mgnlq_testmodel2.svg?branch=master)](https://travis-ci.org/jfseb/mgnlq_testmodel2)[![Coverage Status](https://coveralls.io/repos/github/jfseb/mgnlq_testmodel2/badge.svg)](https://coveralls.io/github/jfseb/mgnlq_testmodel2)
 
 The mongo testmodel replay files
 and an hard coded instantiation hook assuming:
@@ -7,7 +7,7 @@ and an hard coded instantiation hook assuming:
 | Property |   |Value (hard coded!)
 |:---------|---|:----------------------------
 |*Mongo DB Connection string*  ||  `'mongodb://localhost/testdb2'`
-|*data Folder*        | | `mgrecrep/`
+|*data Folder*        | | `mgrecrep2/`
 |Control environment varialbe || `MGNLQ_TESTMODEL2_REPLAY`
 
 
