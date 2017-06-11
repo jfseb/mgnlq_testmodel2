@@ -33,7 +33,7 @@ export function getTestModel(): Promise<IFModel.IModels> {
     // determine mode
     // in replax mode, using a singleton is sufficient
     aPromise = aPromise || Model.loadModelsOpeningConnection(mongooseMock,
-      Constants.MONGO_DBURL, Constants.MONGOOSE_RECORD_REPLAY_FOLDER);
+      Constants.MONGO_DBURL, Constants.MODEL_PATH);
     return aPromise;
   }
   return Model.loadModelsOpeningConnection(mongooseMock, Constants.MONGO_DBURL, Constants.MODEL_PATH);

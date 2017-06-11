@@ -27,7 +27,7 @@ function getTestModel() {
     if (mode === 'REPLAY') {
         // determine mode
         // in replax mode, using a singleton is sufficient
-        aPromise = aPromise || mgnlq_model_1.Model.loadModelsOpeningConnection(mongooseMock, Constants.MONGO_DBURL, Constants.MONGOOSE_RECORD_REPLAY_FOLDER);
+        aPromise = aPromise || mgnlq_model_1.Model.loadModelsOpeningConnection(mongooseMock, Constants.MONGO_DBURL, Constants.MODEL_PATH);
         return aPromise;
     }
     return mgnlq_model_1.Model.loadModelsOpeningConnection(mongooseMock, Constants.MONGO_DBURL, Constants.MODEL_PATH);
