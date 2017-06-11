@@ -1,4 +1,4 @@
-# mgnlq_testmodel2 [![Build Status](https://travis-ci.org/jfseb/mgnlq_testmodel2.svg?branch=master)](https://travis-ci.org/jfseb/mgnql_abot)[![Coverage Status](https://coveralls.io/repos/github/jfseb/mgnlq_testmodel2/badge.svg)](https://coveralls.io/github/jfseb/mgnql_testmodel2)
+# mgnlq_testmodel2 [![Build Status](https://travis-ci.org/jfseb/mgnlq_testmodel2.svg?branch=master)](https://travis-ci.org/jfseb/mgnlq_testmodel2)[![Coverage Status](https://coveralls.io/repos/github/jfseb/mgnlq_testmodel2/badge.svg)](https://coveralls.io/github/jfseb/mgnql_testmodel2)
 
 The mongo testmodel replay files
 and an hard coded instantiation hook assuming:
