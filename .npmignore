@@ -4,6 +4,7 @@ logs
 *.tgz
 *.bak
 **/*.bak
+tmp/**
 
 testmodel/graph/*
 testmodel2/graph/*
