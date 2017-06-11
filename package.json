@@ -45,6 +45,6 @@
   },
   "dependencies": {
     "mgnlq_model": "0.0.2",
-    "mongoose_record_replay": "0.0.4"
+    "mongoose_record_replay": "0.0.7"
   }
 }

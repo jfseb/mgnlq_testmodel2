@@ -1,0 +1,103 @@
+[
+  {
+    "_id": "593c4c73b4ac9330f2fde03d",
+    "modelname": "cosmos",
+    "__v": 0,
+    "domain": "Cosmos",
+    "mongoosemodelname": "cosmo",
+    "collectionname": "cosmos",
+    "props": {
+      "albedo": {
+        "_m_category": "albedo",
+        "trim": true,
+        "type": "String"
+      },
+      "_synonyms": [
+        {
+          "synonyms": [
+            {
+              "trim": true,
+              "type": "String"
+            }
+          ],
+          "fact": {
+            "trim": true,
+            "type": "String"
+          },
+          "category": {
+            "trim": true,
+            "type": "String"
+          }
+        }
+      ],
+      "orbital_period": {
+        "_m_category": "orbital period",
+        "trim": true,
+        "type": "String"
+      },
+      "eccentricity": {
+        "_m_category": "eccentricity",
+        "trim": true,
+        "type": "String"
+      },
+      "orbit_radius": {
+        "_m_category": "orbit radius",
+        "trim": true,
+        "type": "String"
+      },
+      "_url": {
+        "_m_category": "_url",
+        "trim": true,
+        "type": "String"
+      },
+      "distance": {
+        "_m_category": "distance",
+        "trim": true,
+        "type": "String"
+      },
+      "orbits": {
+        "index": true,
+        "_m_category": "orbits",
+        "trim": true,
+        "type": "String"
+      },
+      "object_type": {
+        "index": true,
+        "_m_category": "object type",
+        "trim": true,
+        "type": "String"
+      },
+      "radius": {
+        "_m_category": "radius",
+        "trim": true,
+        "type": "String"
+      },
+      "mass": {
+        "_m_category": "mass",
+        "trim": true,
+        "type": "String"
+      },
+      "visual_luminosity": {
+        "_m_category": "visual luminosity",
+        "trim": true,
+        "type": "String"
+      },
+      "visual_magnitude": {
+        "_m_category": "visual magnitude",
+        "trim": true,
+        "type": "String"
+      },
+      "object_name": {
+        "index": true,
+        "_m_category": "object name",
+        "trim": true,
+        "type": "String"
+      }
+    },
+    "index": {
+      "orbits": "text",
+      "object_type": "text",
+      "object_name": "text"
+    }
+  }
+]

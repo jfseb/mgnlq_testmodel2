@@ -1,0 +1,5828 @@
+[
+  {
+    "_id": "592ffc214ccb27b0c7f78859",
+    "modelname": "metamodels",
+    "__v": 0,
+    "collectionname": "metamodels",
+    "mongoosemodelname": "metamodel",
+    "domain": "metamodel",
+    "domain_description": "metamodel",
+    "_categories": {
+      "exactmatch": false,
+      "wordindex": false,
+      "category_description": "link to domain description",
+      "category": "uri",
+      "_id": "5930861615cb45023c078d4a",
+      "QBEColumnProps": {
+        "QBE": true
+      },
+      "category_synonyms": []
+    },
+    "columns": [
+      "domain",
+      "category",
+      "exactmatch",
+      "domain description",
+      "category description"
+    ],
+    "domain_synonyms": [
+      "meta model"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78859",
+    "modelname": "metamodels",
+    "__v": 0,
+    "collectionname": "metamodels",
+    "mongoosemodelname": "metamodel",
+    "domain": "metamodel",
+    "domain_description": "metamodel",
+    "_categories": {
+      "exactmatch": false,
+      "wordindex": true,
+      "category_description": "a technical key, combination of appId and releaseId",
+      "category": "domain",
+      "_id": "5930861615cb45023c078d49",
+      "QBEColumnProps": {
+        "LUNRIndex": true,
+        "QBE": true
+      },
+      "category_synonyms": []
+    },
+    "columns": [
+      "domain",
+      "category",
+      "exactmatch",
+      "domain description",
+      "category description"
+    ],
+    "domain_synonyms": [
+      "meta model"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78859",
+    "modelname": "metamodels",
+    "__v": 0,
+    "collectionname": "metamodels",
+    "mongoosemodelname": "metamodel",
+    "domain": "metamodel",
+    "domain_description": "metamodel",
+    "_categories": {
+      "exactmatch": true,
+      "category_description": "a technical key, combination of appId and releaseId",
+      "category": "domain description",
+      "_id": "5930861615cb45023c078d48",
+      "QBEColumnProps": {
+        "QBE": true
+      },
+      "category_synonyms": []
+    },
+    "columns": [
+      "domain",
+      "category",
+      "exactmatch",
+      "domain description",
+      "category description"
+    ],
+    "domain_synonyms": [
+      "meta model"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78859",
+    "modelname": "metamodels",
+    "__v": 0,
+    "collectionname": "metamodels",
+    "mongoosemodelname": "metamodel",
+    "domain": "metamodel",
+    "domain_description": "metamodel",
+    "_categories": {
+      "wordindex": true,
+      "category_description": "Object property",
+      "category": "category",
+      "_id": "5930861615cb45023c078d47",
+      "QBEColumnProps": {
+        "LUNRIndex": true,
+        "QBE": true
+      },
+      "category_synonyms": []
+    },
+    "columns": [
+      "domain",
+      "category",
+      "exactmatch",
+      "domain description",
+      "category description"
+    ],
+    "domain_synonyms": [
+      "meta model"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78859",
+    "modelname": "metamodels",
+    "__v": 0,
+    "collectionname": "metamodels",
+    "mongoosemodelname": "metamodel",
+    "domain": "metamodel",
+    "domain_description": "metamodel",
+    "_categories": {
+      "category_description": "Description of the category",
+      "category": "category description",
+      "_id": "5930861615cb45023c078d46",
+      "category_synonyms": []
+    },
+    "columns": [
+      "domain",
+      "category",
+      "exactmatch",
+      "domain description",
+      "category description"
+    ],
+    "domain_synonyms": [
+      "meta model"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78859",
+    "modelname": "metamodels",
+    "__v": 0,
+    "collectionname": "metamodels",
+    "mongoosemodelname": "metamodel",
+    "domain": "metamodel",
+    "domain_description": "metamodel",
+    "_categories": {
+      "category_description": "whether to include the category in QBE tables",
+      "category": "QBE",
+      "_id": "5930861615cb45023c078d45",
+      "category_synonyms": []
+    },
+    "columns": [
+      "domain",
+      "category",
+      "exactmatch",
+      "domain description",
+      "category description"
+    ],
+    "domain_synonyms": [
+      "meta model"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78859",
+    "modelname": "metamodels",
+    "__v": 0,
+    "collectionname": "metamodels",
+    "mongoosemodelname": "metamodel",
+    "domain": "metamodel",
+    "domain_description": "metamodel",
+    "_categories": {
+      "category_description": "whether to include the category in a LUNR Index",
+      "category": "LUNRIndex",
+      "_id": "5930861615cb45023c078d44",
+      "category_synonyms": []
+    },
+    "columns": [
+      "domain",
+      "category",
+      "exactmatch",
+      "domain description",
+      "category description"
+    ],
+    "domain_synonyms": [
+      "meta model"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78859",
+    "modelname": "metamodels",
+    "__v": 0,
+    "collectionname": "metamodels",
+    "mongoosemodelname": "metamodel",
+    "domain": "metamodel",
+    "domain_description": "metamodel",
+    "_categories": {
+      "category_description": "whether to include the category in a LUNR Index",
+      "category": "wordindex",
+      "_id": "5930861615cb45023c078d43",
+      "category_synonyms": []
+    },
+    "columns": [
+      "domain",
+      "category",
+      "exactmatch",
+      "domain description",
+      "category description"
+    ],
+    "domain_synonyms": [
+      "meta model"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78859",
+    "modelname": "metamodels",
+    "__v": 0,
+    "collectionname": "metamodels",
+    "mongoosemodelname": "metamodel",
+    "domain": "metamodel",
+    "domain_description": "metamodel",
+    "_categories": {
+      "category_description": "whether a match on a given value has to be precise",
+      "category": "exactmatch",
+      "_id": "5930861615cb45023c078d42",
+      "category_synonyms": []
+    },
+    "columns": [
+      "domain",
+      "category",
+      "exactmatch",
+      "domain description",
+      "category description"
+    ],
+    "domain_synonyms": [
+      "meta model"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78859",
+    "modelname": "metamodels",
+    "__v": 0,
+    "collectionname": "metamodels",
+    "mongoosemodelname": "metamodel",
+    "domain": "metamodel",
+    "domain_description": "metamodel",
+    "_categories": {
+      "category_description": "synonyms for the category",
+      "category": "category synonyms",
+      "_id": "5930861615cb45023c078d41",
+      "category_synonyms": []
+    },
+    "columns": [
+      "domain",
+      "category",
+      "exactmatch",
+      "domain description",
+      "category description"
+    ],
+    "domain_synonyms": [
+      "meta model"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78859",
+    "modelname": "metamodels",
+    "__v": 0,
+    "collectionname": "metamodels",
+    "mongoosemodelname": "metamodel",
+    "domain": "metamodel",
+    "domain_description": "metamodel",
+    "_categories": {
+      "category_description": "the columns in order which are shon in a table",
+      "category": "columns",
+      "_id": "5930861615cb45023c078d40",
+      "category_synonyms": []
+    },
+    "columns": [
+      "domain",
+      "category",
+      "exactmatch",
+      "domain description",
+      "category description"
+    ],
+    "domain_synonyms": [
+      "meta model"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f7885c",
+    "modelname": "iupacs",
+    "__v": 0,
+    "domain": "IUPAC",
+    "_categories": {
+      "wordindex": true,
+      "category_description": "element name",
+      "category": "element name",
+      "_id": "5930861615cb45023c078d6f",
+      "QBEColumnProps": {
+        "LUNRIndex": true,
+        "QBE": true,
+        "defaultWidth": 120
+      },
+      "category_synonyms": [
+        "name"
+      ]
+    },
+    "columns": [
+      "element symbol",
+      "element number",
+      "element name"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f7885c",
+    "modelname": "iupacs",
+    "__v": 0,
+    "domain": "IUPAC",
+    "_categories": {
+      "wordindex": true,
+      "category_description": "element symbol",
+      "category": "element symbol",
+      "_id": "5930861615cb45023c078d6e",
+      "QBEColumnProps": {
+        "LUNRIndex": true,
+        "QBE": true,
+        "defaultWidth": 60
+      },
+      "category_synonyms": [
+        "symbol"
+      ]
+    },
+    "columns": [
+      "element symbol",
+      "element number",
+      "element name"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f7885c",
+    "modelname": "iupacs",
+    "__v": 0,
+    "domain": "IUPAC",
+    "_categories": {
+      "category_description": "weigth of the element",
+      "category": "atomic weight",
+      "_id": "5930861615cb45023c078d6d",
+      "QBEColumnProps": {
+        "QBE": true,
+        "defaultWidth": 80
+      },
+      "category_synonyms": [
+        "element weight"
+      ]
+    },
+    "columns": [
+      "element symbol",
+      "element number",
+      "element name"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f7885c",
+    "modelname": "iupacs",
+    "__v": 0,
+    "domain": "IUPAC",
+    "_categories": {
+      "wordindex": true,
+      "category_description": "weigth of the element",
+      "category": "element number",
+      "_id": "5930861615cb45023c078d6c",
+      "QBEColumnProps": {
+        "LUNRIndex": true,
+        "QBE": true,
+        "defaultWidth": 60
+      },
+      "category_synonyms": []
+    },
+    "columns": [
+      "element symbol",
+      "element number",
+      "element name"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "category_description": "link to fiori app reference library",
+      "category": "uri",
+      "_id": "5930861615cb45023c078d6b",
+      "QBEColumnProps": {
+        "QBEInclude": true
+      },
+      "category_synonyms": []
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "exactmatch": true,
+      "category_description": "a technical key, combination of appId and releaseId",
+      "category": "AppKey",
+      "_id": "5930861615cb45023c078d6a",
+      "QBEColumnProps": {
+        "QBE": true
+      },
+      "category_synonyms": []
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "wordindex": true,
+      "category_description": "for UI5 based applications, name of the UI5 Component, e.g. \"ui.s2p.mm.supconf.monitors1\".",
+      "category": "ArtifactId",
+      "_id": "5930861615cb45023c078d69",
+      "QBEColumnProps": {
+        "LUNRIndex": true,
+        "QBE": true
+      },
+      "category_synonyms": [
+        "component name",
+        "ui5 component name",
+        "library name",
+        "javascript name",
+        "javascript id",
+        "manifest id",
+        "appdescriptor id"
+      ]
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "wordindex": true,
+      "category_description": "the Fiori appId, note that multiple records exists, as the same ID may change over time with verions",
+      "category": "appId",
+      "_id": "5930861615cb45023c078d68",
+      "QBEColumnProps": {
+        "LUNRIndex": true,
+        "QBE": true,
+        "defaultWidth": 80
+      },
+      "category_synonyms": []
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "wordindex": true,
+      "category_description": "A combination of \"#\" <SemanticObject> - <Semanticaction> which appears in the URL of the Fiori Launchpad when addressing the application",
+      "category": "fiori intent",
+      "_id": "5930861615cb45023c078d67",
+      "QBEColumnProps": {
+        "LUNRIndex": true,
+        "QBE": true,
+        "defaultWidth": 180
+      },
+      "category_synonyms": [
+        "fiori intents",
+        "intents",
+        "intent"
+      ]
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "wordindex": true,
+      "category_description": "Human legible Application name",
+      "category": "AppName",
+      "_id": "5930861615cb45023c078d66",
+      "QBEColumnProps": {
+        "LUNRIndex": true,
+        "QBE": true,
+        "defaultWidth": 200
+      },
+      "category_synonyms": [
+        "Fiori App"
+      ]
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": true,
+      "category_description": "Support component for the Frontend application, typically",
+      "category": "ApplicationComponent",
+      "_id": "5930861615cb45023c078d65",
+      "QBEColumnProps": {
+        "LUNRIndex": true,
+        "QBE": true,
+        "defaultWidth": 100
+      },
+      "category_synonyms": [
+        "Application Component",
+        "Application components",
+        "ApplicationComponents",
+        "Support Component",
+        "Component"
+      ]
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": true,
+      "category_description": "A business role name, e.g. \"Purchaser\", for a technical role (PFCG), try BusinessRoleName",
+      "category": "RoleName",
+      "_id": "5930861615cb45023c078d64",
+      "QBEColumnProps": {
+        "LUNRIndex": true,
+        "QBE": true
+      },
+      "category_synonyms": [
+        "Role Name",
+        "PFCG Role"
+      ]
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": true,
+      "category_description": "Whether the application is classical or not",
+      "category": "ApplicationType",
+      "_id": "5930861615cb45023c078d63",
+      "QBEColumnProps": {
+        "LUNRIndex": true,
+        "QBE": true,
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": true,
+      "category_description": "Name of the Business Server Page",
+      "category": "BSPName",
+      "_id": "5930861615cb45023c078d62",
+      "QBEColumnProps": {
+        "LUNRIndex": true,
+        "QBE": true
+      },
+      "category_synonyms": [
+        "BSP",
+        "BSP Name",
+        "BSP repository"
+      ]
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "wordindex": true,
+      "category_description": "url of the BSP application in an ABAP system, see BSP name for the technical storage  /sab/bc/ui5_ui5/..",
+      "category": "BSPApplicationURL",
+      "_id": "5930861615cb45023c078d61",
+      "QBEColumnProps": {
+        "LUNRIndex": true,
+        "QBE": true
+      },
+      "category_synonyms": [
+        "BSP Path",
+        "BSP Url",
+        "BSP Urls",
+        "Resource Path"
+      ]
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": true,
+      "category_description": "release name",
+      "category": "releaseName",
+      "_id": "5930861615cb45023c078d60",
+      "QBEColumnProps": {
+        "LUNRIndex": true,
+        "QBE": true
+      },
+      "category_synonyms": []
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": true,
+      "category": "releaseId",
+      "_id": "5930861615cb45023c078d5f",
+      "category_synonyms": []
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": true,
+      "category_description": "The SAP Business catalog which references the application in a \"TechnicalCatalog\" or \"BackendCatalog\" (for GUI/WDA transactions",
+      "category": "BusinessCatalog",
+      "_id": "5930861615cb45023c078d5e",
+      "QBEColumnProps": {
+        "LUNRIndex": true
+      },
+      "category_synonyms": []
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": true,
+      "category_description": "Technical catalog, basic definition of \"TargetMapping\" and \"Tile\" for fiori (UI5) Applications",
+      "category": "TechnicalCatalog",
+      "_id": "5930861615cb45023c078d5d",
+      "QBEColumnProps": {
+        "LUNRIndex": true
+      },
+      "category_synonyms": []
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "hidden": true,
+      "category": "detailsurl",
+      "_id": "5930861615cb45023c078d5c",
+      "category_synonyms": []
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "category": "isPublished",
+      "_id": "5930861615cb45023c078d5b",
+      "category_synonyms": []
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": true,
+      "category_description": "Package (DevClass) of the BSP Application",
+      "category": "BSPPackage",
+      "_id": "5930861615cb45023c078d5a",
+      "QBEColumnProps": {
+        "LUNRIndex": true,
+        "QBE": true
+      },
+      "category_synonyms": []
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "category": "AppDocumentationLinkKW",
+      "_id": "5930861615cb45023c078d59",
+      "category_synonyms": []
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": true,
+      "category_description": "Package (DevClass) of the BSP Application",
+      "category": "BusinessRoleName",
+      "_id": "5930861615cb45023c078d58",
+      "QBEColumnProps": {
+        "LUNRIndex": true,
+        "QBE": true
+      },
+      "category_synonyms": [
+        "Business Role Name",
+        "Backend PFCG Role"
+      ]
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": true,
+      "category_description": "Package (DevClass) of the BSP Application",
+      "category": "BusinessGroupName",
+      "_id": "5930861615cb45023c078d57",
+      "QBEColumnProps": {
+        "LUNRIndex": true,
+        "QBE": true
+      },
+      "category_synonyms": []
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "wordindex": true,
+      "category": "BusinessGroupDescription",
+      "_id": "5930861615cb45023c078d56",
+      "category_synonyms": []
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": true,
+      "category_description": "OData service : Technical name of the OData Service operating on a Gateway server (and implemented in the R/3 Backend) serving data for UI5 based Fiori Apps",
+      "category": "PrimaryODataServiceName",
+      "_id": "5930861615cb45023c078d55",
+      "QBEColumnProps": {
+        "LUNRIndex": true,
+        "QBE": true
+      },
+      "category_synonyms": [
+        "ODataService",
+        "Primary OData Service",
+        "OData Service Name",
+        "OData Service"
+      ]
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "wordindex": true,
+      "category_description": "The first part of the \"fiori intent\", identifying the Business entity, e.g. \"SalesOrder\",\"GLAcount\" used for generic navigation",
+      "category": "SemanticObject",
+      "_id": "5930861615cb45023c078d54",
+      "QBEColumnProps": {
+        "LUNRIndex": true,
+        "QBE": true,
+        "defaultWidth": 100
+      },
+      "category_synonyms": [
+        "Semantic Object"
+      ]
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "wordindex": true,
+      "category_description": "The second part of the \"fiori intent\", identifying the action, e.g. \"maintain\", \"create\"",
+      "category": "SemanticAction",
+      "_id": "5930861615cb45023c078d53",
+      "QBEColumnProps": {
+        "LUNRIndex": true,
+        "QBE": true
+      },
+      "category_synonyms": [
+        "Semantic Action"
+      ]
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": true,
+      "category_description": "Frontend Software Component",
+      "category": "FrontendSoftwareComponent",
+      "_id": "5930861615cb45023c078d52",
+      "QBEColumnProps": {
+        "LUNRIndex": true,
+        "QBE": true
+      },
+      "category_synonyms": []
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": true,
+      "category_description": "For GUI based transaction, the transaciton code behind intent, a classical R/3 SAPGUi transaction",
+      "category": "TransactionCode",
+      "_id": "5930861615cb45023c078d51",
+      "QBEColumnProps": {
+        "LUNRIndex": true,
+        "QBE": true,
+        "defaultWidth": 80
+      },
+      "category_synonyms": [
+        "Transactions",
+        "TransactionCode",
+        "TransactionCodes"
+      ]
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "category": "URLParameters",
+      "_id": "5930861615cb45023c078d50",
+      "category_synonyms": []
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": true,
+      "category": "LPDCustInstance",
+      "_id": "5930861615cb45023c078d4f",
+      "category_synonyms": []
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": true,
+      "category": "PrimaryODataPFCGRole",
+      "_id": "5930861615cb45023c078d4e",
+      "category_synonyms": []
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "592ffc214ccb27b0c7f78868",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain": "FioriBOM",
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": true,
+      "category_description": "External Release name",
+      "category": "ExternalReleaseName",
+      "_id": "5930861615cb45023c078d4d",
+      "QBEColumnProps": {
+        "LUNRIndex": true,
+        "QBE": true
+      },
+      "category_synonyms": []
+    },
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "domain_synonyms": [
+      "fiori bom"
+    ]
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f7888c",
+    "modelname": "dna_aminoacids",
+    "__v": 0,
+    "domain": "GeneticDNA",
+    "domain_description": "an incomplte model of the Amino acids and associated DNA triples",
+    "collectionname": "dna_aminoacids",
+    "_categories": {
+      "wordindex": true,
+      "category_description": "triplet of nucleotids encoding this amino acid",
+      "category": "nucleotid sequence",
+      "_id": "5930861615cb45023c078d4c",
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f7888c",
+    "modelname": "dna_aminoacids",
+    "__v": 0,
+    "domain": "GeneticDNA",
+    "domain_description": "an incomplte model of the Amino acids and associated DNA triples",
+    "collectionname": "dna_aminoacids",
+    "_categories": {
+      "wordindex": true,
+      "category_description": "Name encoding",
+      "category": "Amino acid",
+      "_id": "5930861615cb45023c078d4b",
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78891",
+    "modelname": "twf_fields",
+    "__v": 0,
+    "domain": "TWF fields",
+    "domain_description": "The world factbook fields",
+    "collectionname": "twf_fields",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "Technical key of field",
+      "category": "fieldId",
+      "_id": "5930861615cb45023c078d72",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78891",
+    "modelname": "twf_fields",
+    "__v": 0,
+    "domain": "TWF fields",
+    "domain_description": "The world factbook fields",
+    "collectionname": "twf_fields",
+    "_categories": {
+      "exactmatch": false,
+      "wordindex": true,
+      "category_description": "name of field",
+      "category": "fieldName",
+      "_id": "5930861615cb45023c078d71",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78891",
+    "modelname": "twf_fields",
+    "__v": 0,
+    "domain": "TWF fields",
+    "domain_description": "The world factbook fields",
+    "collectionname": "twf_fields",
+    "_categories": {
+      "exactmatch": false,
+      "wordindex": false,
+      "category_description": "verbose description of field",
+      "category": "field description",
+      "_id": "5930861615cb45023c078d70",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78896",
+    "modelname": "commands",
+    "__v": 0,
+    "domain": "example commands",
+    "collectionname": "commands",
+    "_categories": {
+      "category_description": "",
+      "category": "example commands",
+      "_id": "5930861615cb45023c078e35",
+      "category_synonyms": [
+        "commands",
+        "sample commands"
+      ]
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": false,
+      "wordindex": true,
+      "category_description": "name of a country",
+      "category": "country",
+      "_id": "5930861615cb45023c078e32",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": [
+        "countries"
+      ]
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "fieldId",
+      "_id": "5930861615cb45023c078e31",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": false,
+      "wordindex": true,
+      "category_description": "",
+      "category": "fieldName",
+      "_id": "5930861615cb45023c078e30",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "TRANSPORTATION - NOTE",
+      "_id": "5930861615cb45023c078e2f",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "DIPLOMATIC REPRESENTATION FROM THE US",
+      "_id": "5930861615cb45023c078e2e",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "DEPENDENCY STATUS",
+      "_id": "5930861615cb45023c078e2d",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "AFFILIATION",
+      "_id": "5930861615cb45023c078e2c",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "GDP - PER CAPITA (PPP)",
+      "_id": "5930861615cb45023c078e2b",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "GDP - REAL GROWTH RATE",
+      "_id": "5930861615cb45023c078e2a",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "POPULATION GROWTH RATE",
+      "_id": "5930861615cb45023c078e29",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "GDP (PURCHASING POWER PARITY)",
+      "_id": "5930861615cb45023c078e28",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": [
+        "GDP"
+      ]
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "DEPENDENCY RATIOS",
+      "_id": "5930861615cb45023c078e27",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "GROSS NATIONAL SAVING",
+      "_id": "5930861615cb45023c078e26",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "GDP - COMPOSITION, BY END USE",
+      "_id": "5930861615cb45023c078e25",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "CONTRACEPTIVE PREVALENCE RATE",
+      "_id": "5930861615cb45023c078e24",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "DEMOGRAPHIC PROFILE",
+      "_id": "5930861615cb45023c078e23",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "MOTHER'S MEAN AGE AT FIRST BIRTH",
+      "_id": "5930861615cb45023c078e22",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "CHILD LABOR - CHILDREN AGES 5-14",
+      "_id": "5930861615cb45023c078e21",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "CARBON DIOXIDE EMISSIONS FROM CONSUMPTION OF ENERGY",
+      "_id": "5930861615cb45023c078e20",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "NATURAL GAS - PROVED RESERVES",
+      "_id": "5930861615cb45023c078e1f",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "NATURAL GAS - IMPORTS",
+      "_id": "5930861615cb45023c078e1e",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "NATURAL GAS - EXPORTS",
+      "_id": "5930861615cb45023c078e1d",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "NATURAL GAS - CONSUMPTION",
+      "_id": "5930861615cb45023c078e1c",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "NATURAL GAS - PRODUCTION",
+      "_id": "5930861615cb45023c078e1b",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "REFINED PETROLEUM PRODUCTS - IMPORTS",
+      "_id": "5930861615cb45023c078e1a",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "REFINED PETROLEUM PRODUCTS - EXPORTS",
+      "_id": "5930861615cb45023c078e19",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "REFINED PETROLEUM PRODUCTS - CONSUMPTION",
+      "_id": "5930861615cb45023c078e18",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "REFINED PETROLEUM PRODUCTS - PRODUCTION",
+      "_id": "5930861615cb45023c078e17",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "CRUDE OIL - PROVED RESERVES",
+      "_id": "5930861615cb45023c078e16",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "CRUDE OIL - IMPORTS",
+      "_id": "5930861615cb45023c078e15",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "CRUDE OIL - EXPORTS",
+      "_id": "5930861615cb45023c078e14",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "CRUDE OIL - PRODUCTION",
+      "_id": "5930861615cb45023c078e13",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "ELECTRICITY - FROM OTHER RENEWABLE SOURCES",
+      "_id": "5930861615cb45023c078e12",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "ELECTRICITY - FROM NUCLEAR FUELS",
+      "_id": "5930861615cb45023c078e11",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "ELECTRICITY - FROM HYDROELECTRIC PLANTS",
+      "_id": "5930861615cb45023c078e10",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "ELECTRICITY - FROM FOSSIL FUELS",
+      "_id": "5930861615cb45023c078e0f",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "ELECTRICITY - INSTALLED GENERATING CAPACITY",
+      "_id": "5930861615cb45023c078e0e",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "ELECTRICITY - IMPORTS",
+      "_id": "5930861615cb45023c078e0d",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "ELECTRICITY - EXPORTS",
+      "_id": "5930861615cb45023c078e0c",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "ELECTRICITY - CONSUMPTION",
+      "_id": "5930861615cb45023c078e0b",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "ELECTRICITY - PRODUCTION",
+      "_id": "5930861615cb45023c078e0a",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "NATIONAL SYMBOL(S)",
+      "_id": "5930861615cb45023c078e09",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "UNEMPLOYMENT, YOUTH AGES 15-24",
+      "_id": "5930861615cb45023c078e08",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "OBESITY - ADULT PREVALENCE RATE",
+      "_id": "5930861615cb45023c078e07",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "HOSPITAL BED DENSITY",
+      "_id": "5930861615cb45023c078e06",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "PHYSICIANS DENSITY",
+      "_id": "5930861615cb45023c078e05",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "HEALTH EXPENDITURES",
+      "_id": "5930861615cb45023c078e04",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "CHILDREN UNDER THE AGE OF 5 YEARS UNDERWEIGHT",
+      "_id": "5930861615cb45023c078e03",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "MATERNAL MORTALITY RATE",
+      "_id": "5930861615cb45023c078e02",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "BUDGET SURPLUS (+) OR DEFICIT (-)",
+      "_id": "5930861615cb45023c078e01",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "TAXES AND OTHER REVENUES",
+      "_id": "5930861615cb45023c078e00",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "INTERNATIONAL LAW ORGANIZATION PARTICIPATION",
+      "_id": "5930861615cb45023c078dff",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "MAJOR URBAN AREAS - POPULATION",
+      "_id": "5930861615cb45023c078dfe",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "NATIONAL ANTHEM",
+      "_id": "5930861615cb45023c078dfd",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "SANITATION FACILITY ACCESS",
+      "_id": "5930861615cb45023c078dfc",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "DRINKING WATER SOURCE",
+      "_id": "5930861615cb45023c078dfb",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "STOCK OF BROAD MONEY",
+      "_id": "5930861615cb45023c078dfa",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "STOCK OF NARROW MONEY",
+      "_id": "5930861615cb45023c078df9",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "BROADCAST MEDIA",
+      "_id": "5930861615cb45023c078df8",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "URBANIZATION",
+      "_id": "5930861615cb45023c078df7",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "STOCK OF DOMESTIC CREDIT",
+      "_id": "5930861615cb45023c078df6",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "STOCK OF QUASI MONEY",
+      "_id": "5930861615cb45023c078df5",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "STOCK OF MONEY",
+      "_id": "5930861615cb45023c078df4",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "COMMERCIAL BANK PRIME LENDING RATE",
+      "_id": "5930861615cb45023c078df3",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "CENTRAL BANK DISCOUNT RATE",
+      "_id": "5930861615cb45023c078df2",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "EDUCATION EXPENDITURES",
+      "_id": "5930861615cb45023c078df1",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "SCHOOL LIFE EXPECTANCY (PRIMARY TO TERTIARY EDUCATION)",
+      "_id": "5930861615cb45023c078df0",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "ECONOMY OF THE AREA ADMINISTERED BY TURKISH CYPRIOTS",
+      "_id": "5930861615cb45023c078def",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "GEOGRAPHIC OVERVIEW",
+      "_id": "5930861615cb45023c078dee",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "FRESHWATER WITHDRAWAL (DOMESTIC/INDUSTRIAL/AGRICULTURAL)",
+      "_id": "5930861615cb45023c078ded",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "TOTAL RENEWABLE WATER RESOURCES",
+      "_id": "5930861615cb45023c078dec",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "MARKET VALUE OF PUBLICLY TRADED SHARES",
+      "_id": "5930861615cb45023c078deb",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "STOCK OF DIRECT FOREIGN INVESTMENT - ABROAD",
+      "_id": "5930861615cb45023c078dea",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "STOCK OF DIRECT FOREIGN INVESTMENT - AT HOME",
+      "_id": "5930861615cb45023c078de9",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "TRAFFICKING IN PERSONS",
+      "_id": "5930861615cb45023c078de8",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "GDP (OFFICIAL EXCHANGE RATE)",
+      "_id": "5930861615cb45023c078de7",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "REFUGEES AND INTERNALLY DISPLACED PERSONS",
+      "_id": "5930861615cb45023c078de6",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "MAJOR INFECTIOUS DISEASES",
+      "_id": "5930861615cb45023c078de5",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "PRELIMINARY STATEMENT",
+      "_id": "5930861615cb45023c078de4",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "MEMBER STATES",
+      "_id": "5930861615cb45023c078de3",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "POLITICAL STRUCTURE",
+      "_id": "5930861615cb45023c078de2",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "UNION NAME",
+      "_id": "5930861615cb45023c078de1",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "RESERVES OF FOREIGN EXCHANGE AND GOLD",
+      "_id": "5930861615cb45023c078de0",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "CURRENT ACCOUNT BALANCE",
+      "_id": "5930861615cb45023c078ddf",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "PUBLIC DEBT",
+      "_id": "5930861615cb45023c078dde",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": [
+        "debt"
+      ]
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "INTERNET HOSTS",
+      "_id": "5930861615cb45023c078ddd",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "MEDIAN AGE",
+      "_id": "5930861615cb45023c078ddc",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "DISTRIBUTION OF FAMILY INCOME - GINI INDEX",
+      "_id": "5930861615cb45023c078ddb",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "HIV/AIDS - DEATHS",
+      "_id": "5930861615cb45023c078dda",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "HIV/AIDS - PEOPLE LIVING WITH HIV/AIDS",
+      "_id": "5930861615cb45023c078dd9",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "HIV/AIDS - ADULT PREVALENCE RATE",
+      "_id": "5930861615cb45023c078dd8",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "INTERNET COUNTRY CODE",
+      "_id": "5930861615cb45023c078dd7",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "INTERNET USERS",
+      "_id": "5930861615cb45023c078dd6",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "TELEPHONES - MOBILE CELLULAR",
+      "_id": "5930861615cb45023c078dd5",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "TELEPHONES - MAIN LINES IN USE",
+      "_id": "5930861615cb45023c078dd4",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "DIPLOMATIC REPRESENTATION IN THE US",
+      "_id": "5930861615cb45023c078dd3",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "AREA",
+      "_id": "5930861615cb45023c078dd2",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "IRRIGATED LAND",
+      "_id": "5930861615cb45023c078dd1",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "MAP REFERENCES",
+      "_id": "5930861615cb45023c078dd0",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "LOCATION",
+      "_id": "5930861615cb45023c078dcf",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "COUNTRY NAME",
+      "_id": "5930861615cb45023c078dce",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "GOVERNMENT - NOTE",
+      "_id": "5930861615cb45023c078dcd",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "COMMUNICATIONS - NOTE",
+      "_id": "5930861615cb45023c078dcc",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "MILITARY - NOTE",
+      "_id": "5930861615cb45023c078dcb",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "UNEMPLOYMENT RATE",
+      "_id": "5930861615cb45023c078dca",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "GOVERNMENT TYPE",
+      "_id": "5930861615cb45023c078dc9",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "TOTAL FERTILITY RATE",
+      "_id": "5930861615cb45023c078dc8",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "TERRAIN",
+      "_id": "5930861615cb45023c078dc7",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "TELEPHONE SYSTEM",
+      "_id": "5930861615cb45023c078dc6",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "SUFFRAGE",
+      "_id": "5930861615cb45023c078dc5",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "RELIGIONS",
+      "_id": "5930861615cb45023c078dc4",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "RAILWAYS",
+      "_id": "5930861615cb45023c078dc3",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "PORTS AND TERMINALS",
+      "_id": "5930861615cb45023c078dc2",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "POPULATION",
+      "_id": "5930861615cb45023c078dc1",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "POLITICAL PARTIES AND LEADERS",
+      "_id": "5930861615cb45023c078dc0",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "PIPELINES",
+      "_id": "5930861615cb45023c078dbf",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "ECONOMY - OVERVIEW",
+      "_id": "5930861615cb45023c078dbe",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "POLITICAL PRESSURE GROUPS AND LEADERS",
+      "_id": "5930861615cb45023c078dbd",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "GEOGRAPHY - NOTE",
+      "_id": "5930861615cb45023c078dbc",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "NET MIGRATION RATE",
+      "_id": "5930861615cb45023c078dbb",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "NATURAL RESOURCES",
+      "_id": "5930861615cb45023c078dba",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "NATIONALITY",
+      "_id": "5930861615cb45023c078db9",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "NATIONAL HOLIDAY",
+      "_id": "5930861615cb45023c078db8",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "MERCHANT MARINE",
+      "_id": "5930861615cb45023c078db7",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "INTERNATIONAL ORGANIZATION PARTICIPATION",
+      "_id": "5930861615cb45023c078db6",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "MARITIME CLAIMS",
+      "_id": "5930861615cb45023c078db5",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "MANPOWER AVAILABLE FOR MILITARY SERVICE",
+      "_id": "5930861615cb45023c078db4",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "LITERACY",
+      "_id": "5930861615cb45023c078db3",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "LIFE EXPECTANCY AT BIRTH",
+      "_id": "5930861615cb45023c078db2",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "LEGISLATIVE BRANCH",
+      "_id": "5930861615cb45023c078db1",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "LEGAL SYSTEM",
+      "_id": "5930861615cb45023c078db0",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "LANGUAGES",
+      "_id": "5930861615cb45023c078daf",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "LAND USE",
+      "_id": "5930861615cb45023c078dae",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "LAND BOUNDARIES",
+      "_id": "5930861615cb45023c078dad",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "LABOR FORCE",
+      "_id": "5930861615cb45023c078dac",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "JUDICIAL BRANCH",
+      "_id": "5930861615cb45023c078dab",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "WATERWAYS",
+      "_id": "5930861615cb45023c078daa",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "INFLATION RATE (CONSUMER PRICES)",
+      "_id": "5930861615cb45023c078da9",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "INFANT MORTALITY RATE",
+      "_id": "5930861615cb45023c078da8",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "INDUSTRIES",
+      "_id": "5930861615cb45023c078da7",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "INDUSTRIAL PRODUCTION GROWTH RATE",
+      "_id": "5930861615cb45023c078da6",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "INDEPENDENCE",
+      "_id": "5930861615cb45023c078da5",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "IMPORTS",
+      "_id": "5930861615cb45023c078da4",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "ILLICIT DRUGS",
+      "_id": "5930861615cb45023c078da3",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "ROADWAYS",
+      "_id": "5930861615cb45023c078da2",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "FLAG DESCRIPTION",
+      "_id": "5930861615cb45023c078da1",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "FISCAL YEAR",
+      "_id": "5930861615cb45023c078da0",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "DEBT - EXTERNAL",
+      "_id": "5930861615cb45023c078d9f",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "EXPORTS",
+      "_id": "5930861615cb45023c078d9e",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "EXECUTIVE BRANCH",
+      "_id": "5930861615cb45023c078d9d",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "EXCHANGE RATES",
+      "_id": "5930861615cb45023c078d9c",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "ETHNIC GROUPS",
+      "_id": "5930861615cb45023c078d9b",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "DISPUTES - INTERNATIONAL",
+      "_id": "5930861615cb45023c078d9a",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "DEPENDENT AREAS",
+      "_id": "5930861615cb45023c078d99",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "DEATH RATE",
+      "_id": "5930861615cb45023c078d98",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "CONSTITUTION",
+      "_id": "5930861615cb45023c078d97",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "IMPORTS - PARTNERS",
+      "_id": "5930861615cb45023c078d96",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "COASTLINE",
+      "_id": "5930861615cb45023c078d95",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "CLIMATE",
+      "_id": "5930861615cb45023c078d94",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "IMPORTS - COMMODITIES",
+      "_id": "5930861615cb45023c078d93",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "CAPITAL",
+      "_id": "5930861615cb45023c078d92",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "BUDGET",
+      "_id": "5930861615cb45023c078d91",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "MILITARY BRANCHES",
+      "_id": "5930861615cb45023c078d90",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "BIRTH RATE",
+      "_id": "5930861615cb45023c078d8f",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "AIRPORTS",
+      "_id": "5930861615cb45023c078d8e",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "AGRICULTURE - PRODUCTS",
+      "_id": "5930861615cb45023c078d8d",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "ADMINISTRATIVE DIVISIONS",
+      "_id": "5930861615cb45023c078d8c",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "EXPORTS - PARTNERS",
+      "_id": "5930861615cb45023c078d8b",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "EXPORTS - COMMODITIES",
+      "_id": "5930861615cb45023c078d8a",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "LABOR FORCE - BY OCCUPATION",
+      "_id": "5930861615cb45023c078d89",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "HOUSEHOLD INCOME OR CONSUMPTION BY PERCENTAGE SHARE",
+      "_id": "5930861615cb45023c078d88",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "POPULATION BELOW POVERTY LINE",
+      "_id": "5930861615cb45023c078d87",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "MILITARY EXPENDITURES",
+      "_id": "5930861615cb45023c078d86",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "ENVIRONMENT - INTERNATIONAL AGREEMENTS",
+      "_id": "5930861615cb45023c078d85",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "ENVIRONMENT - CURRENT ISSUES",
+      "_id": "5930861615cb45023c078d84",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "AIRPORTS - WITH UNPAVED RUNWAYS",
+      "_id": "5930861615cb45023c078d83",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "AIRPORTS - WITH PAVED RUNWAYS",
+      "_id": "5930861615cb45023c078d82",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "BACKGROUND",
+      "_id": "5930861615cb45023c078d81",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "MANPOWER REACHING MILITARILY SIGNIFICANT AGE ANNUALLY",
+      "_id": "5930861615cb45023c078d80",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "MANPOWER FIT FOR MILITARY SERVICE",
+      "_id": "5930861615cb45023c078d7f",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "MILITARY SERVICE AGE AND OBLIGATION",
+      "_id": "5930861615cb45023c078d7e",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "AREA - COMPARATIVE",
+      "_id": "5930861615cb45023c078d7d",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "PEOPLE - NOTE",
+      "_id": "5930861615cb45023c078d7c",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "NATURAL HAZARDS",
+      "_id": "5930861615cb45023c078d7b",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "ELEVATION EXTREMES",
+      "_id": "5930861615cb45023c078d7a",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "HELIPORTS",
+      "_id": "5930861615cb45023c078d79",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "SEX RATIO",
+      "_id": "5930861615cb45023c078d78",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "TELEVISION BROADCAST STATIONS",
+      "_id": "5930861615cb45023c078d77",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "RADIO BROADCAST STATIONS",
+      "_id": "5930861615cb45023c078d76",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "GDP - COMPOSITION, BY SECTOR OF ORIGIN",
+      "_id": "5930861615cb45023c078d75",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "GEOGRAPHIC COORDINATES",
+      "_id": "5930861615cb45023c078d74",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78894",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "domain": "TWF_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "collectionname": "twf_countries",
+    "_categories": {
+      "exactmatch": true,
+      "wordindex": false,
+      "category_description": "",
+      "category": "AGE STRUCTURE",
+      "_id": "5930861615cb45023c078d73",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78897",
+    "modelname": "questions",
+    "__v": 0,
+    "domain": "example questions",
+    "collectionname": "questions",
+    "_categories": {
+      "exactmatch": false,
+      "wordindex": false,
+      "category_description": "",
+      "category": "example question",
+      "_id": "5930861615cb45023c078e34",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": [
+        "questions",
+        "sample questions",
+        "sample question"
+      ]
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78897",
+    "modelname": "questions",
+    "__v": 0,
+    "domain": "example questions",
+    "collectionname": "questions",
+    "_categories": {
+      "exactmatch": false,
+      "wordindex": false,
+      "category_description": "",
+      "category": "questionId",
+      "_id": "5930861615cb45023c078e33",
+      "QBEColumnProps": {
+        "defaultWidth": 100
+      },
+      "category_synonyms": []
+    },
+    "columns": []
+  },
+  {
+    "_id": "59307a7c4ccb27b0c7f78898",
+    "modelname": "hints",
+    "__v": 0,
+    "domain": "hints",
+    "collectionname": "hints",
+    "_categories": {
+      "category_description": "",
+      "category": "hints",
+      "_id": "5930861615cb45023c078e36",
+      "category_synonyms": [
+        "tips and tricks",
+        "tips",
+        "tricks",
+        "expert tips"
+      ]
+    },
+    "columns": []
+  }
+]

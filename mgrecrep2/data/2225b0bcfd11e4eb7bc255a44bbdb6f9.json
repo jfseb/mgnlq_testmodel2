@@ -1,0 +1,117 @@
+[
+  {
+    "_id": "592ffc214ccb27b0c7f7885a",
+    "modelname": "metamodels",
+    "__v": 0,
+    "domain": "metamodel",
+    "mongoosemodelname": "metamodel",
+    "collectionname": "metamodels",
+    "props": {
+      "_categories": [
+        {
+          "QBEColumnProps": {
+            "LUNRIndex": {
+              "_m_category": "LUNRIndex",
+              "type": "Boolean"
+            },
+            "QBEInclude": {
+              "_m_category": "QBEInclude",
+              "type": "Boolean"
+            },
+            "QBE": {
+              "_m_category": "QBE",
+              "type": "Boolean"
+            },
+            "defaultWidth": {
+              "_m_category": "defaultWidth",
+              "type": "Number"
+            }
+          },
+          "category_synonyms": [
+            {
+              "_m_category": "category synonyms",
+              "trim": true,
+              "type": "String"
+            }
+          ],
+          "hidden": {
+            "_m_category": "hidden",
+            "type": "Boolean"
+          },
+          "exactmatch": {
+            "_m_category": "exactmatch",
+            "type": "Boolean"
+          },
+          "wordindex": {
+            "_m_category": "wordindex",
+            "type": "Boolean"
+          },
+          "category_description": {
+            "_m_category": "category description",
+            "trim": true,
+            "type": "String"
+          },
+          "category": {
+            "_m_category": "category",
+            "trim": true,
+            "type": "String"
+          }
+        }
+      ],
+      "columns": [
+        {
+          "_m_category": "columns",
+          "trim": true,
+          "type": "String"
+        }
+      ],
+      "domain_synonyms": [
+        {
+          "_m_category": "domain synonyms",
+          "trim": true,
+          "type": "String"
+        }
+      ],
+      "domain_description": {
+        "index": true,
+        "_m_category": "domain description",
+        "required": true,
+        "trim": true,
+        "type": "String"
+      },
+      "uri": {
+        "_m_category": "uri",
+        "trim": true,
+        "type": "String"
+      },
+      "domain": {
+        "_m_category": "domain",
+        "trim": true,
+        "type": "String"
+      },
+      "collectionname": {
+        "_m_category": "collectionname",
+        "trim": true,
+        "type": "String"
+      },
+      "mongoosemodelname": {
+        "_m_category": "mongoosemodelname",
+        "trim": true,
+        "type": "String"
+      },
+      "modelname": {
+        "_m_category": "modelname",
+        "required": true,
+        "trim": true,
+        "type": "String"
+      }
+    },
+    "index": {
+      "category": "text",
+      "domain": "text",
+      "domain_description": "text",
+      "domain_synonyms": "text",
+      "category_synonym": "text"
+    }
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "_id": "5925e323d3f66454a8cb6e0c",
+    "modelname": "sobj_tables",
+    "__v": 0,
+    "domain": "SOBJ Tables",
+    "domain_description": "R/3 Transport objects and associated tables. This domains allows to quickly lookup up if and in what transport object a given table content is transported, e.g. \"What is the Transport Object, Primary Table for /UIF/LREPDCONT\" ",
+    "_categories": [
+      {
+        "category": "recordKey",
+        "_id": "593c4c739e373d4330d84d4e",
+        "category_synonyms": []
+      },
+      {
+        "category_description": "The transport object key (SOBJ)",
+        "category": "TransportObject",
+        "_id": "593c4c739e373d4330d84d4d",
+        "category_synonyms": [
+          "SOBJ",
+          "Transport Key"
+        ]
+      },
+      {
+        "category_description": "Short text of transport object",
+        "category": "Shorttext",
+        "_id": "593c4c739e373d4330d84d4c",
+        "category_synonyms": []
+      },
+      {
+        "exactmatch": true,
+        "wordindex": true,
+        "category_description": "The DDIC Table",
+        "category": "Table",
+        "_id": "593c4c739e373d4330d84d4b",
+        "category_synonyms": [
+          "Tables",
+          "Database Table",
+          "Transport Table"
+        ]
+      },
+      {
+        "exactmatch": true,
+        "category_description": "Key specification for the table",
+        "category": "TableTransportKeySpec",
+        "_id": "593c4c739e373d4330d84d4a",
+        "category_synonyms": []
+      },
+      {
+        "exactmatch": true,
+        "wordindex": true,
+        "category_description": "Primary table of transport object, if existing",
+        "category": "PrimaryTable",
+        "_id": "593c4c739e373d4330d84d49",
+        "category_synonyms": [
+          "Primary Table"
+        ]
+      },
+      {
+        "exactmatch": true,
+        "wordindex": true,
+        "category_description": "Whether the object is client specific",
+        "category": "clientSpecific",
+        "_id": "593c4c739e373d4330d84d48",
+        "category_synonyms": []
+      },
+      {
+        "exactmatch": true,
+        "category_description": "Length of transport key",
+        "category": "Object name length",
+        "_id": "593c4c739e373d4330d84d47",
+        "category_synonyms": []
+      },
+      {
+        "exactmatch": true,
+        "category_description": "Category of the transport",
+        "category": "category",
+        "_id": "593c4c739e373d4330d84d46",
+        "category_synonyms": []
+      },
+      {
+        "exactmatch": true,
+        "wordindex": true,
+        "category_description": "Boolean (\"true\",\"false\") whether object is translation relevant",
+        "category": "TranslationRelevant",
+        "_id": "593c4c739e373d4330d84d45",
+        "category_synonyms": []
+      },
+      {
+        "exactmatch": true,
+        "category": "Type",
+        "_id": "593c4c739e373d4330d84d44",
+        "category_synonyms": []
+      }
+    ],
+    "columns": []
+  }
+]

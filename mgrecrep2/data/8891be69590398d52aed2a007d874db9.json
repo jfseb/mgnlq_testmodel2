@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "59307a7c4ccb27b0c7f78896",
+    "modelname": "commands",
+    "__v": 0,
+    "domain": "example commands",
+    "collectionname": "commands",
+    "_categories": [
+      {
+        "category_description": "",
+        "category": "example commands",
+        "_id": "5930861615cb45023c078e35",
+        "category_synonyms": [
+          "commands",
+          "sample commands"
+        ]
+      }
+    ],
+    "columns": []
+  }
+]

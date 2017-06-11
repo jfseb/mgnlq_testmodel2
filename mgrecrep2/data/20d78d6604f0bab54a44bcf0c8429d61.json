@@ -1,9 +1,9 @@
 [
-  "GUI",
   "Analytical",
   "Design Studio",
   "FPM/WebDynpro",
-  "Transactional",
+  "Factsheet",
+  "GUI",
   "Reuse Component",
-  "Factsheet"
+  "Transactional"
 ]

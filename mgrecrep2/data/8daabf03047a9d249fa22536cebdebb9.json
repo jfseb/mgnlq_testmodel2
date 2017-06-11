@@ -1,0 +1,79 @@
+[
+  {
+    "_id": "593c4c73b4ac9330f2fde040",
+    "modelname": "sobj_tables",
+    "__v": 0,
+    "domain": "SOBJ Tables",
+    "mongoosemodelname": "sobj_table",
+    "collectionname": "sobj_tables",
+    "props": {
+      "_tables": [
+        {
+          "PrimaryTable": {
+            "index": true,
+            "_m_category": "PrimaryTable",
+            "trim": true,
+            "type": "Boolean"
+          },
+          "TableTransportKeySpec": {
+            "_m_category": "TableTransportKeySpec",
+            "trim": true,
+            "type": "String"
+          },
+          "Table": {
+            "index": true,
+            "_m_category": "Table",
+            "trim": true,
+            "required": true,
+            "type": "String"
+          }
+        }
+      ],
+      "Type": {
+        "_m_category": "Type",
+        "trim": true,
+        "type": "String"
+      },
+      "TranslationRelevant": {
+        "index": true,
+        "_m_category": "TranslationRelevant",
+        "trim": true,
+        "type": "Boolean"
+      },
+      "category": {
+        "_m_category": "category",
+        "trim": true,
+        "type": "String"
+      },
+      "Object_name_length": {
+        "_m_category": "Object name length",
+        "trim": true,
+        "type": "Number"
+      },
+      "clientSpecific": {
+        "index": true,
+        "_m_category": "clientSpecific",
+        "trim": true,
+        "type": "Boolean"
+      },
+      "Shorttext": {
+        "_m_category": "Shorttext",
+        "trim": true,
+        "type": "String"
+      },
+      "TransportObject": {
+        "index": true,
+        "_m_category": "TransportObject",
+        "required": true,
+        "trim": true,
+        "type": "String"
+      },
+      "recordKey": {
+        "_m_category": "recordKey",
+        "trim": true,
+        "type": "String"
+      }
+    },
+    "index": {}
+  }
+]

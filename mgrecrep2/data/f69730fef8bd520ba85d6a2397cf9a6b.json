@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "5930862915cb45023c07c2b6",
+    "hints": "when obtaining multiple ambigous results, use the \"List all ... for ... \" pattern or specify additional discriminating values",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c2b5",
+    "hints": "Query entities containig many whitespaces must be quoted, e.g. \"List all AppNames in Role \"Assortment Specialist - Retail\" .",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c2ba",
+    "hints": "register to get deeper insights into categories and the underlying model and remove some query limitations",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c2b9",
+    "hints": "apart from using me, the other way to make me better is to contribute.",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c2b7",
+    "hints": "enjoy SAP",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c2bb",
+    "hints": "have fun",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c2b4",
+    "hints": "quoting objects like \"Manage Account\" simplifies parsing and may reduce ambiguities.",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c2b8",
+    "hints": "the only way to make me better is to use me.",
+    "__v": 0
+  }
+]

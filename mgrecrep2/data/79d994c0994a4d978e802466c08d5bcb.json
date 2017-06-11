@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "5930862915cb45023c07c3bf",
+    "example_commands": "what is the color of money",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c3bd",
+    "example_commands": "Wrong",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c3bc",
+    "example_commands": "Learn the capital of the Klingon Empire is Qo'noS or Kronos",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c3bb",
+    "example_commands": "list all example questions",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c3be",
+    "example_commands": "Yes",
+    "__v": 0
+  }
+]

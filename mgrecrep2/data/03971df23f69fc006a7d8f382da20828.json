@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "5925e323d3f66454a8cb6e08",
+    "modelname": "r3trans",
+    "__v": 0,
+    "domain": "SAP Transaction Codes",
+    "domain_description": "An extract of SAP Basis transactions",
+    "_categories": [
+      {
+        "wordindex": true,
+        "category_description": "SAP Transaction code",
+        "category": "tcode",
+        "_id": "593c4c739e373d4330d84d24",
+        "category_synonyms": []
+      },
+      {
+        "wordindex": true,
+        "category_description": "Development class (Package) in system",
+        "category": "devclass",
+        "_id": "593c4c739e373d4330d84d23",
+        "category_synonyms": []
+      },
+      {
+        "category": "systemId",
+        "_id": "593c4c739e373d4330d84d22",
+        "category_synonyms": []
+      },
+      {
+        "category": "client",
+        "_id": "593c4c739e373d4330d84d21",
+        "category_synonyms": []
+      },
+      {
+        "category_description": "English text of the transaction",
+        "category": "transaction description",
+        "_id": "593c4c739e373d4330d84d20",
+        "category_synonyms": []
+      }
+    ],
+    "columns": []
+  }
+]

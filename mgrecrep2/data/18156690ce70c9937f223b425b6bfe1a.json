@@ -1,0 +1,117 @@
+[
+  {
+    "_id": "5930862915cb45023c07c2bd",
+    "example_question": "What is the BSPName for Fiori App \"Manage Labels\"",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c2be",
+    "example_question": "List all appNames in ApplicationComponent PLM-FIO-RCP",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c2c1",
+    "example_question": "What is the BSPName for Fiori App \"Manage Labels\"",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c2c2",
+    "example_question": "List all ODataServices for FI-FIO-GL",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c2c5",
+    "example_question": "what is the ApplicationComponent for sap.cus.sd.lib.processflow",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c2c6",
+    "example_question": "what is the ApplicationType for #ControllingDocument-setControllingArea",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c2c9",
+    "example_question": "list all BSP Urls for ui2.ssuite.s2p.mm.pu.po.create.s1",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c2cd",
+    "example_question": "list all intents for FI-FIO-GL with ApplicationType \"FPM/WebDynpro\"",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c2ca",
+    "example_question": "list all fiori intents in FIO-FI-GL with ApplicationType Analytical",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c2d1",
+    "example_question": "list all example commands",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c2ce",
+    "example_question": "list all ApplicationTypes for #GLAccount-manage",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c2d2",
+    "example_question": "list all hints",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c2bf",
+    "example_question": "list all element names starting with ni",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c2c3",
+    "example_question": "what is the element name for element number 117",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c2c7",
+    "example_question": "list all Application Component, BSPName, ODataService, fiori intent for maintain",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c2cb",
+    "example_question": "list all AppIds for FI-FIO-GL with ApplicationType \"Reuse Component\"",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c2cf",
+    "example_question": "list all BSP Urls for ui2.ssuite.s2p.mm.pu.po.create.s1",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c2bc",
+    "example_question": "what are the sanitation facilities in tuvalu",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c2c0",
+    "example_question": "list all Application Components starting with FIN-",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c2c4",
+    "example_question": "what is the \"ui5 component name\" for fiori intent #RequestForQuotation-manage",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c2c8",
+    "example_question": "list all OData Services for retail.store.stockcorrection",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c2cc",
+    "example_question": "list all intents for FI-FIO-GL with ApplicationType \"FPM/WebDynpro\"",
+    "__v": 0
+  },
+  {
+    "_id": "5930862915cb45023c07c2d0",
+    "example_question": "list all categories",
+    "__v": 0
+  }
+]

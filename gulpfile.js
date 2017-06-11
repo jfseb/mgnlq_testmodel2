@@ -15,7 +15,24 @@ var testDir = 'test';
 
 gulp.task('watch', function () {
   gulp.watch([srcDir + '/**/*.js', testDir + '/**/*.js', srcDir + '/**/*.tsx', srcDir + '/**/*.ts', 'gulpfile.js'],
-    ['tsc', 'babel', 'eslint']);
+    ['tsc', 'eslint']);
+});
+
+var del = require('del');
+
+gulp.task('clean_testmodel_zip', function () {
+  return del([
+    'testmodel2/_cache.js.zip',
+    'mgrecrep2/_cache.js.zip'
+  ],{ force : true});
+});
+
+
+gulp.task('clean_testmodel_cache', function () {
+  return del([
+    'mgrecrep2/data/*',
+    'testmodel2/_cache.js.zip'
+  ],{ force : true});
 });
 
 /**
