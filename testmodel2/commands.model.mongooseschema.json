@@ -3,8 +3,11 @@
     "example_commands": {
       "type": "String",
       "trim": true,
-      "_m_category": "example commands"
+      "_m_category": "example commands",
+      "index" : true
     }
   },
-  "index": {}
+  "index": {
+    "example_commands" : "text"
+  }
 }

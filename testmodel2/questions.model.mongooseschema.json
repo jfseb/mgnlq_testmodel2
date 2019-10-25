@@ -3,7 +3,8 @@
     "example_question": {
       "type": "String",
       "trim": true,
-      "_m_category": "example question"
+      "_m_category": "example question",
+      "index" :true
     },
     "questionId": {
       "type": "String",
@@ -11,5 +12,7 @@
       "_m_category": "questionId"
     }
   },
-  "index": {}
+  "index": {
+    "example_question" : "text"
+  }
 }

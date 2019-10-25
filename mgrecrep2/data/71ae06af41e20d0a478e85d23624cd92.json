@@ -1,6 +1,6 @@
 [
   {
-    "_id": "593086164ccb27b0c7f788ab",
+    "_id": "5948316238723de2a9186f58",
     "modelname": "fioriapps",
     "__v": 0,
     "domain": "FioriBOM",
@@ -30,66 +30,54 @@
         "trim": true,
         "type": "String"
       },
-      "TransactionCode": [
-        {
-          "index": true,
-          "_m_category": "TransactionCode",
-          "trim": true,
-          "type": "String"
-        }
-      ],
+      "TransactionCode": {
+        "index": true,
+        "_m_category": "TransactionCode",
+        "trim": true,
+        "type": "String"
+      },
       "FrontendSoftwareComponent": {
         "index": true,
         "_m_category": "FrontendSoftwareComponent",
         "trim": true,
         "type": "String"
       },
-      "SemanticAction": [
-        {
-          "index": true,
-          "_m_category": "SemanticAction",
-          "trim": true,
-          "type": "String"
-        }
-      ],
-      "SemanticObject": [
-        {
-          "index": true,
-          "_m_category": "SemanticObject",
-          "trim": true,
-          "type": "String"
-        }
-      ],
+      "SemanticAction": {
+        "index": true,
+        "_m_category": "SemanticAction",
+        "trim": true,
+        "type": "String"
+      },
+      "SemanticObject": {
+        "index": true,
+        "_m_category": "SemanticObject",
+        "trim": true,
+        "type": "String"
+      },
       "PrimaryODataServiceName": {
         "index": true,
         "_m_category": "PrimaryODataServiceName",
         "trim": true,
         "type": "String"
       },
-      "BusinessGroupDescription": [
-        {
-          "index": true,
-          "_m_category": "BusinessGroupDescription",
-          "trim": true,
-          "type": "String"
-        }
-      ],
-      "BusinessGroupName": [
-        {
-          "index": true,
-          "_m_category": "BusinessGroupName",
-          "trim": true,
-          "type": "String"
-        }
-      ],
-      "BusinessRoleName": [
-        {
-          "index": true,
-          "_m_category": "BusinessRoleName",
-          "trim": true,
-          "type": "String"
-        }
-      ],
+      "BusinessGroupDescription": {
+        "index": true,
+        "_m_category": "BusinessGroupDescription",
+        "trim": true,
+        "type": "String"
+      },
+      "BusinessGroupName": {
+        "index": true,
+        "_m_category": "BusinessGroupName",
+        "trim": true,
+        "type": "String"
+      },
+      "BusinessRoleName": {
+        "index": true,
+        "_m_category": "BusinessRoleName",
+        "trim": true,
+        "type": "String"
+      },
       "AppDocumentationLinkKW": {
         "_m_category": "AppDocumentationLinkKW",
         "trim": true,
@@ -117,14 +105,12 @@
         "trim": true,
         "type": "String"
       },
-      "BusinessCatalog": [
-        {
-          "index": true,
-          "_m_category": "BusinessCatalog",
-          "trim": true,
-          "type": "String"
-        }
-      ],
+      "BusinessCatalog": {
+        "index": true,
+        "_m_category": "BusinessCatalog",
+        "trim": true,
+        "type": "String"
+      },
       "releaseId": {
         "index": true,
         "_m_category": "releaseId",
@@ -149,14 +135,12 @@
         "trim": true,
         "type": "String"
       },
-      "ApplicationType": [
-        {
-          "index": true,
-          "_m_category": "ApplicationType",
-          "trim": true,
-          "type": "String"
-        }
-      ],
+      "ApplicationType": {
+        "index": true,
+        "_m_category": "ApplicationType",
+        "trim": true,
+        "type": "String"
+      },
       "RoleName": {
         "index": true,
         "_m_category": "RoleName",
@@ -204,6 +188,11 @@
         "_m_category": "AppKey",
         "trim": true,
         "type": "String"
+      },
+      "uri_rank": {
+        "_m_category": "uri_rank",
+        "trim": true,
+        "type": "Number"
       },
       "uri": {
         "_m_category": "uri",

@@ -42,7 +42,7 @@
     "example_question": "list all BSP Urls for ui2.ssuite.s2p.mm.pu.po.create.s1"
   },
   {
-    "example_question": "list all fiori intents in FIO-FI-GL with ApplicationType Analytical"
+    "example_question": "list all fiori intents in FI-FIO-GL with ApplicationType Analytical"
   },
   {
     "example_question": "list all AppIds for FI-FIO-GL with ApplicationType \"Reuse Component\""

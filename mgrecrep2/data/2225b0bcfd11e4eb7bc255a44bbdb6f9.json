@@ -1,6 +1,6 @@
 [
   {
-    "_id": "592ffc214ccb27b0c7f7885a",
+    "_id": "5925e323d3f66454a8cb6dff",
     "modelname": "metamodels",
     "__v": 0,
     "domain": "metamodel",
@@ -40,6 +40,14 @@
           },
           "exactmatch": {
             "_m_category": "exactmatch",
+            "type": "Boolean"
+          },
+          "showURIRank": {
+            "_m_category": "showURIRank",
+            "type": "Number"
+          },
+          "showURI": {
+            "_m_category": "showURI",
             "type": "Boolean"
           },
           "wordindex": {

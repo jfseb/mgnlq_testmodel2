@@ -3,8 +3,11 @@
     "hints": {
       "type": "String",
       "trim": true,
-      "_m_category": "hints"
+      "_m_category": "hints",
+      "index": true
     }
   },
-  "index": {}
+  "index": {
+    "hints" : "text"
+  }
 }

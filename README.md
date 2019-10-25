@@ -1,5 +1,27 @@
 # mgnlq_testmodel2 [![Build Status](https://travis-ci.org/jfseb/mgnlq_testmodel2.svg?branch=master)](https://travis-ci.org/jfseb/mgnlq_testmodel2)[![Coverage Status](https://coveralls.io/repos/github/jfseb/mgnlq_testmodel2/badge.svg)](https://coveralls.io/github/jfseb/mgnlq_testmodel2)
 
+
+
+# Purpose
+
+Create mongo database ( specified in constants.ts )
+   default: testdb2
+
+from files in testmodel2/models.json
+
+```
+  npm install
+  npm run create_db
+```
+
+Note Content of a present DB will be deleted!
+
+=================================
+
+To create a differnt DB, set M
+
+=================================
+
 The mongo testmodel replay files
 and an hard coded instantiation hook assuming:
 
@@ -11,7 +33,7 @@ and an hard coded instantiation hook assuming:
 |Control environment varialbe || `MGNLQ_TESTMODEL2_REPLAY`
 
 
-Note: in default mode no mongo connection is established and REPLAY mode is on.
+Note: When using this model, in default mode no mongo connection is established and REPLAY mode is on.
 (see [mongoose_record_replay](https://github.com/jfseb/mongoose_record_replay))
 
 # usage
