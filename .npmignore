@@ -30,4 +30,6 @@ README.md
 .travis.yml
 .vscode
 gulpfile.js
-
+*.txt
+oo.txt
+testmodel2/_cache.js.zip
