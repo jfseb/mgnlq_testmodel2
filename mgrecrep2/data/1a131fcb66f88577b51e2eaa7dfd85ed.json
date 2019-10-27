@@ -1,0 +1,67 @@
+[
+  {
+    "_id": "592ffc214ccb27b0c7f7885c",
+    "modelname": "iupacs",
+    "__v": 0,
+    "domain": "IUPAC",
+    "_categories": [
+      {
+        "wordindex": true,
+        "category_description": "element name",
+        "category": "element name",
+        "_id": "5930861615cb45023c078d6f",
+        "QBEColumnProps": {
+          "LUNRIndex": true,
+          "QBE": true,
+          "defaultWidth": 120
+        },
+        "category_synonyms": [
+          "name"
+        ]
+      },
+      {
+        "wordindex": true,
+        "category_description": "element symbol",
+        "category": "element symbol",
+        "_id": "5930861615cb45023c078d6e",
+        "QBEColumnProps": {
+          "LUNRIndex": true,
+          "QBE": true,
+          "defaultWidth": 60
+        },
+        "category_synonyms": [
+          "symbol"
+        ]
+      },
+      {
+        "category_description": "weigth of the element",
+        "category": "atomic weight",
+        "_id": "5930861615cb45023c078d6d",
+        "QBEColumnProps": {
+          "QBE": true,
+          "defaultWidth": 80
+        },
+        "category_synonyms": [
+          "element weight"
+        ]
+      },
+      {
+        "wordindex": true,
+        "category_description": "weigth of the element",
+        "category": "element number",
+        "_id": "5930861615cb45023c078d6c",
+        "QBEColumnProps": {
+          "LUNRIndex": true,
+          "QBE": true,
+          "defaultWidth": 60
+        },
+        "category_synonyms": []
+      }
+    ],
+    "columns": [
+      "element symbol",
+      "element number",
+      "element name"
+    ]
+  }
+]

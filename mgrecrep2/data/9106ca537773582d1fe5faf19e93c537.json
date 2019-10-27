@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "59307a7c4ccb27b0c7f78891",
+    "modelname": "twf_fields",
+    "__v": 0,
+    "domain": "TWF fields",
+    "domain_description": "The world factbook fields",
+    "collectionname": "twf_fields",
+    "_categories": [
+      {
+        "exactmatch": true,
+        "wordindex": false,
+        "category_description": "Technical key of field",
+        "category": "fieldId",
+        "_id": "5930861615cb45023c078d72",
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        },
+        "category_synonyms": []
+      },
+      {
+        "exactmatch": false,
+        "wordindex": true,
+        "category_description": "name of field",
+        "category": "fieldName",
+        "_id": "5930861615cb45023c078d71",
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        },
+        "category_synonyms": []
+      },
+      {
+        "exactmatch": false,
+        "wordindex": false,
+        "category_description": "verbose description of field",
+        "category": "field description",
+        "_id": "5930861615cb45023c078d70",
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        },
+        "category_synonyms": []
+      }
+    ],
+    "columns": []
+  }
+]

@@ -1,0 +1,2362 @@
+[
+  {
+    "AppName": "Account Determination",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Activity Confirmation",
+    "ApplicationComponent": "PS-FIO"
+  },
+  {
+    "AppName": "Activity Type (ERP)",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Activity Type (S/4HANA)",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Adjust Stock",
+    "ApplicationComponent": "IS-R-FIO"
+  },
+  {
+    "AppName": "Aging Analysis (S/4HANA)",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Aging Analysis (sFIN)",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Allocate Production",
+    "ApplicationComponent": "PP-FIO-PN-ALN"
+  },
+  {
+    "AppName": "Allocation Management Reuse Library",
+    "ApplicationComponent": "CA-RT-AM-FIO"
+  },
+  {
+    "AppName": "Allocation Table",
+    "ApplicationComponent": "IS-R-FIO"
+  },
+  {
+    "AppName": "Analyze Archiving Variants Distribution",
+    "ApplicationComponent": "BC-ILM-FIO"
+  },
+  {
+    "AppName": "Analyze Archiving Variants Distribution",
+    "ApplicationComponent": "BC-ILM-FIO-S4"
+  },
+  {
+    "AppName": "Analyze Clearing Locks",
+    "ApplicationComponent": "XX-PROJ-FI-CA-FIO"
+  },
+  {
+    "AppName": "Analyze Clearing Reasons",
+    "ApplicationComponent": "XX-PROJ-FI-CA-FIO"
+  },
+  {
+    "AppName": "Analyze Collections Success",
+    "ApplicationComponent": "XX-PROJ-FI-CA-FIO"
+  },
+  {
+    "AppName": "Analyze Deferment",
+    "ApplicationComponent": "PP-FIO-PN-DEF"
+  },
+  {
+    "AppName": "Analyze Dunning Locks",
+    "ApplicationComponent": "XX-PROJ-FI-CA-FIO"
+  },
+  {
+    "AppName": "Analyze Dunning Success",
+    "ApplicationComponent": "XX-PROJ-FI-CA-FIO"
+  },
+  {
+    "AppName": "Analyze Outbound Delivery Logs",
+    "ApplicationComponent": "LE-FIO"
+  },
+  {
+    "AppName": "Analyze Overdue Items",
+    "ApplicationComponent": "XX-PROJ-FI-CA-FIO"
+  },
+  {
+    "AppName": "Analyze PIR Quality",
+    "ApplicationComponent": "PP-FIO-MRP"
+  },
+  {
+    "AppName": "Analyze Payment Details",
+    "ApplicationComponent": "FIN-FIO-CLM"
+  },
+  {
+    "AppName": "Analyze Payment Locks",
+    "ApplicationComponent": "XX-PROJ-FI-CA-FIO"
+  },
+  {
+    "AppName": "Analyze Posting Locks",
+    "ApplicationComponent": "XX-PROJ-FI-CA-FIO"
+  },
+  {
+    "AppName": "Analyze Production Allocation",
+    "ApplicationComponent": "PP-FIO-PN-ALN"
+  },
+  {
+    "AppName": "Analyze Unbilled Items",
+    "ApplicationComponent": "FI-CA-INV-FIO"
+  },
+  {
+    "AppName": "Analyze Unrated Items",
+    "ApplicationComponent": "FI-CA-INV-FIO"
+  },
+  {
+    "AppName": "Analyze Write-Offs",
+    "ApplicationComponent": "XX-PROJ-FI-CA-FIO"
+  },
+  {
+    "AppName": "Application Job for Scheduling Archiving",
+    "ApplicationComponent": "BC-ILM-FIO"
+  },
+  {
+    "AppName": "Application of Funds",
+    "ApplicationComponent": "PSM-PSO-FIO"
+  },
+  {
+    "AppName": "Approve Bank Payments",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Approve Claim Payments",
+    "ApplicationComponent": "FS-FIO"
+  },
+  {
+    "AppName": "Approve Decision Points",
+    "ApplicationComponent": "PPM-FIO"
+  },
+  {
+    "AppName": "Approve Leave Requests",
+    "ApplicationComponent": "PA-FIO"
+  },
+  {
+    "AppName": "Approve Leave Requests (Version 2)",
+    "ApplicationComponent": "PA-FIO"
+  },
+  {
+    "AppName": "Approve Purchase Contracts",
+    "ApplicationComponent": "MM-FIO-PUR"
+  },
+  {
+    "AppName": "Approve Purchase Orders",
+    "ApplicationComponent": "MM-FIO-PUR"
+  },
+  {
+    "AppName": "Approve Purchase Orders (SRM)",
+    "ApplicationComponent": "SRM-FIO-POR"
+  },
+  {
+    "AppName": "Approve Requests",
+    "ApplicationComponent": "CA-AR-FIO"
+  },
+  {
+    "AppName": "Approve Requisitions",
+    "ApplicationComponent": "MM-FIO-PUR"
+  },
+  {
+    "AppName": "Approve Service Entry Sheets",
+    "ApplicationComponent": "MM-FIO-SRV"
+  },
+  {
+    "AppName": "Approve Shopping Carts",
+    "ApplicationComponent": "SRM-FIO-SHP"
+  },
+  {
+    "AppName": "Approve Supplier Invoices",
+    "ApplicationComponent": "MM-FIO-IV"
+  },
+  {
+    "AppName": "Approve Timesheets",
+    "ApplicationComponent": "PA-FIO"
+  },
+  {
+    "AppName": "Approve Timesheets (Version 2)",
+    "ApplicationComponent": "PA-FIO"
+  },
+  {
+    "AppName": "Approve Trading Contracts",
+    "ApplicationComponent": "LO-GT-FIO"
+  },
+  {
+    "AppName": "Approve Travel Expenses",
+    "ApplicationComponent": "FI-FIO-TV-ATE"
+  },
+  {
+    "AppName": "Approve Travel Requests",
+    "ApplicationComponent": "FI-FIO-TV-ATR"
+  },
+  {
+    "AppName": "Approve and Publish Forecast",
+    "ApplicationComponent": "PP-FIO-PN-FC"
+  },
+  {
+    "AppName": "Article",
+    "ApplicationComponent": "IS-R-FIO"
+  },
+  {
+    "AppName": "Asset Balances",
+    "ApplicationComponent": "FI-FIO-AA"
+  },
+  {
+    "AppName": "Asset History Sheet",
+    "ApplicationComponent": "FI-FIO-AA"
+  },
+  {
+    "AppName": "Asset Master Worklist",
+    "ApplicationComponent": "FI-FIO-AA"
+  },
+  {
+    "AppName": "Attachment Service",
+    "ApplicationComponent": "PLM-FIO-DMS"
+  },
+  {
+    "AppName": "Attachment Services",
+    "ApplicationComponent": "PLM-FIO-DMS"
+  },
+  {
+    "AppName": "Audit Journal",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Average Delay Time",
+    "ApplicationComponent": "SCM-EM-FIO"
+  },
+  {
+    "AppName": "Average Delay Time (POD)",
+    "ApplicationComponent": "SCM-EM-FIO"
+  },
+  {
+    "AppName": "Average Goods Issue Delay Time",
+    "ApplicationComponent": "SCM-EWM-FIO"
+  },
+  {
+    "AppName": "Average Utilization",
+    "ApplicationComponent": "TM-BF-FIO"
+  },
+  {
+    "AppName": "Average Vehicle Resource Utilization",
+    "ApplicationComponent": "TM-BF-FIO"
+  },
+  {
+    "AppName": "Avg. Cycle Time Delayed Deliveries POD",
+    "ApplicationComponent": "SCM-EM-FIO"
+  },
+  {
+    "AppName": "Avg. Cycle Time of Deliveries",
+    "ApplicationComponent": "SCM-EM-FIO"
+  },
+  {
+    "AppName": "Avg. Wait Time in Yrd",
+    "ApplicationComponent": "SCM-EWM-FIO"
+  },
+  {
+    "AppName": "Bank (ERP)",
+    "ApplicationComponent": "FIN-FIO-CLM"
+  },
+  {
+    "AppName": "Bank Risk (ERP)",
+    "ApplicationComponent": "FIN-FIO-CLM"
+  },
+  {
+    "AppName": "Bank Risk (S/4HANA)",
+    "ApplicationComponent": "FIN-FIO-CLM"
+  },
+  {
+    "AppName": "Bank Risk (sFIN)",
+    "ApplicationComponent": "FIN-FIO-CLM"
+  },
+  {
+    "AppName": "Bank Statement",
+    "ApplicationComponent": "FIN-FIO-CLM"
+  },
+  {
+    "AppName": "Bank Statement Monitor (sFIN)",
+    "ApplicationComponent": "FIN-FIO-CLM"
+  },
+  {
+    "AppName": "Bill of Material",
+    "ApplicationComponent": "PLM-FIO-BOM"
+  },
+  {
+    "AppName": "CRM Fiori reuse library",
+    "ApplicationComponent": "CRM-FIO"
+  },
+  {
+    "AppName": "Calculate Forecast",
+    "ApplicationComponent": "PP-FIO-PN-FC"
+  },
+  {
+    "AppName": "Capture Field Data",
+    "ApplicationComponent": "PP-FIO-PN-MES"
+  },
+  {
+    "AppName": "Carry Forward Balances",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Cash Discount Forecast (S/4HANA)",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Cash Discount Forecast (sFIN)",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Cash Discount Utilization (S/4HANA)",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Cash Discount Utilization (sFIN)",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Cash Flow",
+    "ApplicationComponent": "FIN-FIO-CLM"
+  },
+  {
+    "AppName": "Cash Flow Analysis",
+    "ApplicationComponent": "FIN-FIO-CLM"
+  },
+  {
+    "AppName": "Cash Pool Deficit",
+    "ApplicationComponent": "FIN-FIO-CLM"
+  },
+  {
+    "AppName": "Cash Position (ERP)",
+    "ApplicationComponent": "FIN-FIO-CLM"
+  },
+  {
+    "AppName": "Cash Position (sFIN)",
+    "ApplicationComponent": "FIN-FIO-CLM"
+  },
+  {
+    "AppName": "Cash Position Details",
+    "ApplicationComponent": "FIN-FIO-CLM"
+  },
+  {
+    "AppName": "Central Simple Finance Fiori Reuse Library",
+    "ApplicationComponent": "FI-FIO"
+  },
+  {
+    "AppName": "Central Worklist Component",
+    "ApplicationComponent": "XX-PROJ-FI-CA-FIO"
+  },
+  {
+    "AppName": "Change Network Activity Status",
+    "ApplicationComponent": "PS-FIO"
+  },
+  {
+    "AppName": "Change Portfolio Items",
+    "ApplicationComponent": "PPM-FIO"
+  },
+  {
+    "AppName": "Change Sales Orders",
+    "ApplicationComponent": "SD-FIO-SLS"
+  },
+  {
+    "AppName": "Change Shipping Address",
+    "ApplicationComponent": "SD-FIO-SLS"
+  },
+  {
+    "AppName": "Change WBS Element Status",
+    "ApplicationComponent": "PS-FIO"
+  },
+  {
+    "AppName": "Check Price and Availability",
+    "ApplicationComponent": "SD-FIO-SLS"
+  },
+  {
+    "AppName": "Checklist Item Object Page",
+    "ApplicationComponent": "PPM-FIO"
+  },
+  {
+    "AppName": "Classification",
+    "ApplicationComponent": "PLM-FIO-CL"
+  },
+  {
+    "AppName": "Clear G/L Accounts",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Clear Incoming Payments",
+    "ApplicationComponent": "FI-FIO-AR"
+  },
+  {
+    "AppName": "Clear Outgoing Payments",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Collection Progress (S/4HANA)",
+    "ApplicationComponent": "FIN-FIO-CCD"
+  },
+  {
+    "AppName": "Common ARP Line Items Library",
+    "ApplicationComponent": "FI-FIO-AR"
+  },
+  {
+    "AppName": "Completion Confirmation",
+    "ApplicationComponent": "PM-FIO"
+  },
+  {
+    "AppName": "Configure Custom Objects - Consolidation and Mass Processing",
+    "ApplicationComponent": "CA-MDG-CMP-FIO"
+  },
+  {
+    "AppName": "Confirm Network Activity",
+    "ApplicationComponent": "PS-FIO"
+  },
+  {
+    "AppName": "Confirm Production Operations",
+    "ApplicationComponent": "PP-FIO-SFC"
+  },
+  {
+    "AppName": "Confirm Project Tasks",
+    "ApplicationComponent": "PPM-FIO"
+  },
+  {
+    "AppName": "Confirm Purchase Orders",
+    "ApplicationComponent": "SCM-ICH-FIO"
+  },
+  {
+    "AppName": "Contract Expiry",
+    "ApplicationComponent": "MM-FIO-PUR"
+  },
+  {
+    "AppName": "Contract Leakage",
+    "ApplicationComponent": "MM-FIO-PUR"
+  },
+  {
+    "AppName": "Contract Usage",
+    "ApplicationComponent": "MM-FIO-PUR"
+  },
+  {
+    "AppName": "Cost Center (S/4HANA)",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Cost Center Group (S/4HANA)",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Create Correspondence",
+    "ApplicationComponent": "FI-FIO-AR"
+  },
+  {
+    "AppName": "Create Manual Payment",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Create Optimal Orders for Shipment",
+    "ApplicationComponent": "PP-FIO-MRP"
+  },
+  {
+    "AppName": "Create Outbound Deliveries",
+    "ApplicationComponent": "LE-FIO"
+  },
+  {
+    "AppName": "Create Portfolio Item Proposals",
+    "ApplicationComponent": "PPM-FIO"
+  },
+  {
+    "AppName": "Create Purchase Requisitions",
+    "ApplicationComponent": "MM-FIO-PUR-REQ"
+  },
+  {
+    "AppName": "Create Sales Orders",
+    "ApplicationComponent": "SD-FIO-SLS"
+  },
+  {
+    "AppName": "Create Single Payment",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Credit Limit Utilization (S/4HANA)",
+    "ApplicationComponent": "FIN-FIO-CCD"
+  },
+  {
+    "AppName": "Credit Limit Utilization (sFIN)",
+    "ApplicationComponent": "FIN-FIO-CCD"
+  },
+  {
+    "AppName": "Customer Accounting Document (ERP)",
+    "ApplicationComponent": "FI-FIO-AR"
+  },
+  {
+    "AppName": "Customer Accounting Document (S/4HANA)",
+    "ApplicationComponent": "FI-FIO-AR"
+  },
+  {
+    "AppName": "Customer Accounting Document (sFIN)",
+    "ApplicationComponent": "FI-FIO-AR"
+  },
+  {
+    "AppName": "Customer Master FactSheets",
+    "ApplicationComponent": "LO-MD-FIO-CM"
+  },
+  {
+    "AppName": "Dangerous Goods",
+    "ApplicationComponent": "TM-BF-FIO"
+  },
+  {
+    "AppName": "Data Exchange Using Microsoft Excel",
+    "ApplicationComponent": "MM-FIO-PUR-REQ"
+  },
+  {
+    "AppName": "Database Table Growth",
+    "ApplicationComponent": "BC-CCM-FIO-DAG"
+  },
+  {
+    "AppName": "Database Table Growth Analytics",
+    "ApplicationComponent": "BC-CCM-FIO-DAG"
+  },
+  {
+    "AppName": "Days Beyond Terms (sFIN)",
+    "ApplicationComponent": "FI-FIO-AR"
+  },
+  {
+    "AppName": "Days Payable Outstanding Analysis (S/4HANA)",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Days Payable Outstanding Analysis (sFIN)",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Days Sales Outstanding (sFIN)",
+    "ApplicationComponent": "FI-FIO-AR"
+  },
+  {
+    "AppName": "Default Values for Tax Codes",
+    "ApplicationComponent": "MM-FIO-IV"
+  },
+  {
+    "AppName": "Default settings for users",
+    "ApplicationComponent": "MM-PUR-FIO-REQ"
+  },
+  {
+    "AppName": "Deficit Cash Pool (S/4HANA)",
+    "ApplicationComponent": "FIN-FIO-CLM"
+  },
+  {
+    "AppName": "Deficit Cash Pool (sFIN)",
+    "ApplicationComponent": "FIN-FIO-CLM"
+  },
+  {
+    "AppName": "Define Operational Customizing",
+    "ApplicationComponent": "BC-ILM-FIO"
+  },
+  {
+    "AppName": "Delayed Deliveries (In Transit)",
+    "ApplicationComponent": "SCM-EM-FIO"
+  },
+  {
+    "AppName": "Delayed Deliveries (POD)",
+    "ApplicationComponent": "SCM-EM-FIO"
+  },
+  {
+    "AppName": "Delayed Deliveries (Total)",
+    "ApplicationComponent": "SCM-EM-FIO"
+  },
+  {
+    "AppName": "Delayed Freight Orders In Transit",
+    "ApplicationComponent": "SCM-EM-FIO"
+  },
+  {
+    "AppName": "Deliv. GR Completion Outstanding",
+    "ApplicationComponent": "SCM-EWM-FIO"
+  },
+  {
+    "AppName": "Deliv. Itm Putawy Compl. Outstanding",
+    "ApplicationComponent": "SCM-EWM-FIO"
+  },
+  {
+    "AppName": "Deliv. Unloading Outstanding",
+    "ApplicationComponent": "SCM-EWM-FIO"
+  },
+  {
+    "AppName": "Delivery Arrival Overdue",
+    "ApplicationComponent": "SCM-EWM-FIO"
+  },
+  {
+    "AppName": "Display Asset Master Worklist",
+    "ApplicationComponent": "FI-FIO-AA"
+  },
+  {
+    "AppName": "Display Billing Documents",
+    "ApplicationComponent": "FI-CA-INV-FIO"
+  },
+  {
+    "AppName": "Display Chart of Accounts",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Display Chart of Accounts",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Display Chart of Accounts (Version 2)",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Display Confirmed Purchase Orders",
+    "ApplicationComponent": "SCM-ICH-FIO"
+  },
+  {
+    "AppName": "Display Credit Log",
+    "ApplicationComponent": "FIN-FIO-CCD"
+  },
+  {
+    "AppName": "Display Customer Balances",
+    "ApplicationComponent": "FI-FIO-AR"
+  },
+  {
+    "AppName": "Display Dunning History",
+    "ApplicationComponent": "FI-FIO-AR"
+  },
+  {
+    "AppName": "Display Financial Statement",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Display G/L Account Balances",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Display G/L Account Line Items",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Display Invoicing Documents",
+    "ApplicationComponent": "FI-CA-INV-FIO"
+  },
+  {
+    "AppName": "Display Last Used Projects",
+    "ApplicationComponent": "PPM-FIO"
+  },
+  {
+    "AppName": "Display MRP Key Figures",
+    "ApplicationComponent": "PP-FIO-MRP"
+  },
+  {
+    "AppName": "Display MRP Material Issues",
+    "ApplicationComponent": "PP-FIO-MRP"
+  },
+  {
+    "AppName": "Display Supplier Balances",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Display Treasury Alerts",
+    "ApplicationComponent": "FIN-FIO-TRM"
+  },
+  {
+    "AppName": "Display Treasury Position Flows",
+    "ApplicationComponent": "FIN-FIO-TRM"
+  },
+  {
+    "AppName": "Display Treasury Position Values",
+    "ApplicationComponent": "FIN-FIO-TRM"
+  },
+  {
+    "AppName": "Display Treasury Posting Journal",
+    "ApplicationComponent": "FIN-FIO-TRM"
+  },
+  {
+    "AppName": "Display Vendor Balances",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Due Network Activities",
+    "ApplicationComponent": "PS-FIO"
+  },
+  {
+    "AppName": "Dunning Level Distribution (S/4HANA)",
+    "ApplicationComponent": "FI-FIO-AR"
+  },
+  {
+    "AppName": "Earmarked Fund Document",
+    "ApplicationComponent": "PSM-PSO-FIO"
+  },
+  {
+    "AppName": "Earmarked Funds: Approval",
+    "ApplicationComponent": "CA-INB-FIO"
+  },
+  {
+    "AppName": "Edit Options for Journal Entries - My Settings",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Enter Grades",
+    "ApplicationComponent": "IS-HER-FIO"
+  },
+  {
+    "AppName": "Event-Based Revenue Recognition",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "External Catalog Interface",
+    "ApplicationComponent": "MM-FIO-PUR-REQ"
+  },
+  {
+    "AppName": "FIN User Default Parameter Plugin",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Financial Status",
+    "ApplicationComponent": "FIN-FIO-TRM"
+  },
+  {
+    "AppName": "Find Maintenance Notification",
+    "ApplicationComponent": "PM-FIO"
+  },
+  {
+    "AppName": "Find Maintenance Order",
+    "ApplicationComponent": "PM-FIO"
+  },
+  {
+    "AppName": "Find Maintenance Order Confirmation",
+    "ApplicationComponent": "PM-FIO"
+  },
+  {
+    "AppName": "Find Maintenance Order and Operation",
+    "ApplicationComponent": "PM-FIO"
+  },
+  {
+    "AppName": "Find Technical Object",
+    "ApplicationComponent": "PM-FIO"
+  },
+  {
+    "AppName": "Fiori Reuse Library for Fin Posting Apps",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Fiscal Year Change",
+    "ApplicationComponent": "FI-FIO-AA"
+  },
+  {
+    "AppName": "Fixed Asset (ERP)",
+    "ApplicationComponent": "FI-FIO-AA"
+  },
+  {
+    "AppName": "Fixed Asset (S/4HANA)",
+    "ApplicationComponent": "FI-FIO-AA"
+  },
+  {
+    "AppName": "Fixed Asset (sFIN)",
+    "ApplicationComponent": "FI-FIO-AA"
+  },
+  {
+    "AppName": "Forwarding Orders",
+    "ApplicationComponent": "TM-BF-FIO"
+  },
+  {
+    "AppName": "Forwarding Orders (Version 2)",
+    "ApplicationComponent": "TM-BF-FIO"
+  },
+  {
+    "AppName": "Functional Area",
+    "ApplicationComponent": "PSM-PSO-FIO"
+  },
+  {
+    "AppName": "Functional Area Group",
+    "ApplicationComponent": "PSM-PSO-FIO"
+  },
+  {
+    "AppName": "Functional Location",
+    "ApplicationComponent": "PM-FIO"
+  },
+  {
+    "AppName": "Funded Program",
+    "ApplicationComponent": "PSM-PSO-FIO"
+  },
+  {
+    "AppName": "Funded Program Group",
+    "ApplicationComponent": "PSM-PSO-FIO"
+  },
+  {
+    "AppName": "Future Payables (S/4HANA)",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Future Payables (sFIN)",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Future Receivables (S/4HANA)",
+    "ApplicationComponent": "FI-FIO-AR"
+  },
+  {
+    "AppName": "Future Receivables (sFIN)",
+    "ApplicationComponent": "FI-FIO-AR"
+  },
+  {
+    "AppName": "G/L Account (ERP)",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "G/L Account (S/4HANA)",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "G/L Account (sFIN)",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "G/L Accounting Document",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Gather Forecast Data",
+    "ApplicationComponent": "PP-FIO-PN-FC"
+  },
+  {
+    "AppName": "Grant",
+    "ApplicationComponent": "PSM-PSO-FIO"
+  },
+  {
+    "AppName": "Grant Group",
+    "ApplicationComponent": "PSM-PSO-FIO"
+  },
+  {
+    "AppName": "Gross Margin",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Gross-to-Net Sales",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "House Bank (ERP)",
+    "ApplicationComponent": "FIN-FIO-CLM"
+  },
+  {
+    "AppName": "House Bank Account (ERP)",
+    "ApplicationComponent": "FIN-FIO-CLM"
+  },
+  {
+    "AppName": "ILM Audit Areas",
+    "ApplicationComponent": "BC-ILM-FIO"
+  },
+  {
+    "AppName": "ILM Audit Areas",
+    "ApplicationComponent": "BC-ILM-FIO-S4"
+  },
+  {
+    "AppName": "ILM Monitoring of Archiving  Jobs",
+    "ApplicationComponent": "BC-ILM-FIO"
+  },
+  {
+    "AppName": "ILM Monitoring of Archiving Jobs",
+    "ApplicationComponent": "BC-ILM-FIO"
+  },
+  {
+    "AppName": "Incoming Sales Orders",
+    "ApplicationComponent": "SD-FIO-HBA"
+  },
+  {
+    "AppName": "Incoming Sales Orders - Flexible Analysis",
+    "ApplicationComponent": "SD-FIO-HBA"
+  },
+  {
+    "AppName": "Inspection Operation",
+    "ApplicationComponent": "QM-FIO"
+  },
+  {
+    "AppName": "Inspection Operation",
+    "ApplicationComponent": "QM-FIO-IM"
+  },
+  {
+    "AppName": "Internal Order (ERP)",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Internal Order (S/4HANA)",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Internal Order (sFIN)",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Inventory Turnover Analysis",
+    "ApplicationComponent": "MM-FIO-IM-ITA"
+  },
+  {
+    "AppName": "Invoice Price Change",
+    "ApplicationComponent": "MM-FIO-PUR"
+  },
+  {
+    "AppName": "Invoice Processing Time (S/4HANA)",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Itms w/Incompl. Creation of Pick Task",
+    "ApplicationComponent": "SCM-EWM-FIO"
+  },
+  {
+    "AppName": "Journal Entry (S/4HANA)",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Journal Entry (sFIN)",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Journal Entry Analyzer (S/4HANA)",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Journal Entry Analyzer (sFIN)",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Journal Entry History",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "LE Reuse Library",
+    "ApplicationComponent": "LE-FIO"
+  },
+  {
+    "AppName": "Liquidity Forecast (SoH)",
+    "ApplicationComponent": "FIN-FIO-CLM"
+  },
+  {
+    "AppName": "Location",
+    "ApplicationComponent": "SCM-BAS-FIO"
+  },
+  {
+    "AppName": "Location Product",
+    "ApplicationComponent": "SCM-BAS-FIO"
+  },
+  {
+    "AppName": "Look Up Retail Products",
+    "ApplicationComponent": "IS-R-FIO"
+  },
+  {
+    "AppName": "Maintain Bill Of Material",
+    "ApplicationComponent": "PLM-FIO-BOM"
+  },
+  {
+    "AppName": "Maintain Documents",
+    "ApplicationComponent": "PLM-FIO-DMS"
+  },
+  {
+    "AppName": "Maintain MRP Controllers",
+    "ApplicationComponent": "PP-FIO-MRP"
+  },
+  {
+    "AppName": "Maintenance Notification",
+    "ApplicationComponent": "PM-FIO"
+  },
+  {
+    "AppName": "Maintenance Order",
+    "ApplicationComponent": "PM-FIO"
+  },
+  {
+    "AppName": "Maintenance Plan",
+    "ApplicationComponent": "PM-FIO"
+  },
+  {
+    "AppName": "Make Bank Transfers",
+    "ApplicationComponent": "FIN-FIO-CLM"
+  },
+  {
+    "AppName": "Manage Activity Type Groups",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Manage Activity Type Master Data",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Manage Activity Types",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Manage Allocation Parameters",
+    "ApplicationComponent": "CA-RT-AM-FIO"
+  },
+  {
+    "AppName": "Manage Automatic Payments",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Manage Bank Statements",
+    "ApplicationComponent": "FI-FIO-AR"
+  },
+  {
+    "AppName": "Manage Budget",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Manage Change Master",
+    "ApplicationComponent": "PLM-FIO-RCP"
+  },
+  {
+    "AppName": "Manage Change Requests",
+    "ApplicationComponent": "PP-FIO-MRP"
+  },
+  {
+    "AppName": "Manage Checkbooks",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Manage Cost Center Groups",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Manage Cost Center Master Data",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Manage Cost Centers",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Manage Customer Down Payment Requests",
+    "ApplicationComponent": "FI-FIO-AR"
+  },
+  {
+    "AppName": "Manage Customer Line Items",
+    "ApplicationComponent": "FI-FIO-AR"
+  },
+  {
+    "AppName": "Manage Customer Master Data",
+    "ApplicationComponent": "LO-MD-FIO-CM"
+  },
+  {
+    "AppName": "Manage Data Aging Groups",
+    "ApplicationComponent": "BC-CCM-FIO-DAG"
+  },
+  {
+    "AppName": "Manage Data Aging Groups",
+    "ApplicationComponent": "BC-ILM-FIO"
+  },
+  {
+    "AppName": "Manage Depreciation Runs",
+    "ApplicationComponent": "FI-FIO-AA"
+  },
+  {
+    "AppName": "Manage Depreciation Runs (Version 2)",
+    "ApplicationComponent": "FI-FIO-AA"
+  },
+  {
+    "AppName": "Manage Dispute Cases",
+    "ApplicationComponent": "FIN-FIO-CCD"
+  },
+  {
+    "AppName": "Manage Engineering Records",
+    "ApplicationComponent": "PLM-FIO-ECR"
+  },
+  {
+    "AppName": "Manage External Requirements",
+    "ApplicationComponent": "PP-FIO-MRP"
+  },
+  {
+    "AppName": "Manage Forecast Access",
+    "ApplicationComponent": "PP-FIO-PN-FC"
+  },
+  {
+    "AppName": "Manage Forecast Projects",
+    "ApplicationComponent": "PP-FIO-PN-FC"
+  },
+  {
+    "AppName": "Manage G/L Account Master Data",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Manage G/L Account Master Data (Version 2)",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Manage G/L Documents",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Manage Hierarchy",
+    "ApplicationComponent": "PP-FIO-PN-FC"
+  },
+  {
+    "AppName": "Manage House Banks",
+    "ApplicationComponent": "FIN-FIO-CLM"
+  },
+  {
+    "AppName": "Manage ILM Object Groups",
+    "ApplicationComponent": "BC-ILM-FIO-S4"
+  },
+  {
+    "AppName": "Manage Inspection Lots",
+    "ApplicationComponent": "QM-FIO-IM"
+  },
+  {
+    "AppName": "Manage Internal Order Groups",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Manage Internal Orders",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Manage Internal Orders (Version 2)",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Manage Internal Requirements",
+    "ApplicationComponent": "PP-FIO-MRP"
+  },
+  {
+    "AppName": "Manage Journal Entries",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Manage Label Sets",
+    "ApplicationComponent": "PLM-FIO-RCP"
+  },
+  {
+    "AppName": "Manage Location Clusters",
+    "ApplicationComponent": "CA-DDF-RT-FIO"
+  },
+  {
+    "AppName": "Manage Lockbox Batches",
+    "ApplicationComponent": "FI-FIO-AR"
+  },
+  {
+    "AppName": "Manage Market Units",
+    "ApplicationComponent": "CA-RT-AM-FIO"
+  },
+  {
+    "AppName": "Manage Material Coverage",
+    "ApplicationComponent": "PP-FIO-MRP"
+  },
+  {
+    "AppName": "Manage Material Shortages",
+    "ApplicationComponent": "PP-FIO-MRP"
+  },
+  {
+    "AppName": "Manage Modules",
+    "ApplicationComponent": "CA-DDF-RT-FIO"
+  },
+  {
+    "AppName": "Manage Outgoing Checks",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Manage Payment Blocks",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Manage Payment Media",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Manage Product Attributes",
+    "ApplicationComponent": "CA-DDF-RT-FIO"
+  },
+  {
+    "AppName": "Manage Product Structures",
+    "ApplicationComponent": "PLM-FIO-PSM"
+  },
+  {
+    "AppName": "Manage Production Orders or Process Orders",
+    "ApplicationComponent": "PP-FIO-MRP"
+  },
+  {
+    "AppName": "Manage Profit Center Groups",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Manage Profit Center Master Data",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Manage Profit Centers",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Manage Purchase Contracts",
+    "ApplicationComponent": "MM-FIO-PUR-OA"
+  },
+  {
+    "AppName": "Manage Purchase Orders",
+    "ApplicationComponent": "MM-FIO-PUR"
+  },
+  {
+    "AppName": "Manage Purchase Requisition Professional",
+    "ApplicationComponent": "MM-FIO-PUR-REQ"
+  },
+  {
+    "AppName": "Manage Purchase Requisitions",
+    "ApplicationComponent": "MM-FIO-PUR-REQ"
+  },
+  {
+    "AppName": "Manage Purchasing Info Records",
+    "ApplicationComponent": "MM-FIO-PUR-IR"
+  },
+  {
+    "AppName": "Manage Recipes",
+    "ApplicationComponent": "PLM-FIO-RCP"
+  },
+  {
+    "AppName": "Manage Recurring Journal Entries",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Manage Request for Quotation",
+    "ApplicationComponent": "MM-FIO-PUR-RFQ"
+  },
+  {
+    "AppName": "Manage Risk Assessments",
+    "ApplicationComponent": "GRC-FIO-RM"
+  },
+  {
+    "AppName": "Manage Scheduling Agreement",
+    "ApplicationComponent": "MM-FIO-PUR-SCH"
+  },
+  {
+    "AppName": "Manage Software Constraints",
+    "ApplicationComponent": "PLM-FIO-ESD-ESC"
+  },
+  {
+    "AppName": "Manage Sources of Supply",
+    "ApplicationComponent": "MM-FIO-PUR-SQ"
+  },
+  {
+    "AppName": "Manage Specifications",
+    "ApplicationComponent": "PLM-FIO-RCP"
+  },
+  {
+    "AppName": "Manage Statistical Key Figures",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Manage Stock",
+    "ApplicationComponent": "MM-FIO-IM"
+  },
+  {
+    "AppName": "Manage Supplier Down Payment Requests",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Manage Supplier Invoices",
+    "ApplicationComponent": "MM-FIO-IV"
+  },
+  {
+    "AppName": "Manage Supplier Line Items",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Manage Supplier Master Data",
+    "ApplicationComponent": "LO-MD-FIO-VM"
+  },
+  {
+    "AppName": "Manage Supplier Quotation",
+    "ApplicationComponent": "MM-FIO-PUR-RFQ"
+  },
+  {
+    "AppName": "Manage Usage Decisions",
+    "ApplicationComponent": "QM-FIO-IM"
+  },
+  {
+    "AppName": "Manage Vendor Line Items",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Manage Work Order Deferment Events",
+    "ApplicationComponent": "PP-FIO-PN-DEF"
+  },
+  {
+    "AppName": "Margin Analysis",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Margin Analysis",
+    "ApplicationComponent": "FI-FIO"
+  },
+  {
+    "AppName": "Marketing Approvals",
+    "ApplicationComponent": "CA-INB-FIO"
+  },
+  {
+    "AppName": "Master Data Governance Consolidation",
+    "ApplicationComponent": "CA-MDG-CMP-FIO"
+  },
+  {
+    "AppName": "Master Data Governance, Mass Processing",
+    "ApplicationComponent": "CA-MDG-CMP-FIO"
+  },
+  {
+    "AppName": "Master Inspection Characteristic",
+    "ApplicationComponent": "QM-FIO"
+  },
+  {
+    "AppName": "Match Placeholders",
+    "ApplicationComponent": "CA-RT-AP-FIO"
+  },
+  {
+    "AppName": "Material",
+    "ApplicationComponent": "LO-MD-FIO-MM"
+  },
+  {
+    "AppName": "Material Document",
+    "ApplicationComponent": "MM-FIO-IM"
+  },
+  {
+    "AppName": "Material Documents Overview",
+    "ApplicationComponent": "MM-FIO-IM"
+  },
+  {
+    "AppName": "Material Master Reuse Component",
+    "ApplicationComponent": "MM-FIO-IM"
+  },
+  {
+    "AppName": "Material Movement",
+    "ApplicationComponent": "MM-FIO-IM"
+  },
+  {
+    "AppName": "Measurement Document",
+    "ApplicationComponent": "PM-FIO"
+  },
+  {
+    "AppName": "Measuring Point",
+    "ApplicationComponent": "PM-FIO"
+  },
+  {
+    "AppName": "Missing Parts for Project",
+    "ApplicationComponent": "PS-FIO"
+  },
+  {
+    "AppName": "Monitor Archiving  Jobs",
+    "ApplicationComponent": "BC-ILM-FIO"
+  },
+  {
+    "AppName": "Monitor Archiving  Jobs",
+    "ApplicationComponent": "BC-ILM-FIO-S4"
+  },
+  {
+    "AppName": "Monitor Capacity Utilization",
+    "ApplicationComponent": "PP-FIO-MRP"
+  },
+  {
+    "AppName": "Monitor Data Aging Objects",
+    "ApplicationComponent": "BC-CCM-FIO-DAG"
+  },
+  {
+    "AppName": "Monitor External Requirements",
+    "ApplicationComponent": "PP-FIO-MRP"
+  },
+  {
+    "AppName": "Monitor Internal Requirements",
+    "ApplicationComponent": "PP-FIO-MRP"
+  },
+  {
+    "AppName": "Monitor Material Coverage",
+    "ApplicationComponent": "PP-FIO-MRP"
+  },
+  {
+    "AppName": "Monitor Material Coverage - Net Segments",
+    "ApplicationComponent": "PP-FIO-MRP"
+  },
+  {
+    "AppName": "Monitor Material Coverage - Net and Individual Segments",
+    "ApplicationComponent": "PP-FIO-MRP"
+  },
+  {
+    "AppName": "Monitor Material Shortages",
+    "ApplicationComponent": "PP-FIO-MRP"
+  },
+  {
+    "AppName": "Monitor Purchase Order Items",
+    "ApplicationComponent": "MM-FIO-PUR"
+  },
+  {
+    "AppName": "Monitor Supplier Confirmations",
+    "ApplicationComponent": "MM-FIO-PUR"
+  },
+  {
+    "AppName": "My Accounts",
+    "ApplicationComponent": "CRM-FIO-BP"
+  },
+  {
+    "AppName": "My Advisees",
+    "ApplicationComponent": "IS-HER-FIO"
+  },
+  {
+    "AppName": "My Allocation Plans",
+    "ApplicationComponent": "CA-RT-AM-FIO"
+  },
+  {
+    "AppName": "My Allocation Workload",
+    "ApplicationComponent": "CA-RT-AM-FIO"
+  },
+  {
+    "AppName": "My Appointments",
+    "ApplicationComponent": "CRM-FIO-BTX-APP"
+  },
+  {
+    "AppName": "My Assortment List",
+    "ApplicationComponent": "CA-RT-AP-FIO"
+  },
+  {
+    "AppName": "My Assortment Lists",
+    "ApplicationComponent": "CA-RT-AP-FIO"
+  },
+  {
+    "AppName": "My Assortment Plans",
+    "ApplicationComponent": "CA-RT-AP-FIO"
+  },
+  {
+    "AppName": "My Contacts (CRM)",
+    "ApplicationComponent": "CRM-FIO-BP"
+  },
+  {
+    "AppName": "My Inbox - Approve Purchase Contracts",
+    "ApplicationComponent": "CA-INB-FIO"
+  },
+  {
+    "AppName": "My Inbox - Approve Purchase Order",
+    "ApplicationComponent": "CA-INB-FIO"
+  },
+  {
+    "AppName": "My Inbox - Approve Purchase Requisitions",
+    "ApplicationComponent": "CA-INB-FIO"
+  },
+  {
+    "AppName": "My Inbox - Approve Purchase Requistions",
+    "ApplicationComponent": "CA-INB-FIO"
+  },
+  {
+    "AppName": "My Inbox - Approve Service Entry Sheets",
+    "ApplicationComponent": "MM-FIO-SRV"
+  },
+  {
+    "AppName": "My Inbox - Approve Supplier Invoice",
+    "ApplicationComponent": "CA-INB-FIO"
+  },
+  {
+    "AppName": "My Inbox - Approve Travel Expenses",
+    "ApplicationComponent": "CA-INB-FIO"
+  },
+  {
+    "AppName": "My Inbox - Approve Travel Requests",
+    "ApplicationComponent": "CA-INB-FIO"
+  },
+  {
+    "AppName": "My Leads",
+    "ApplicationComponent": "CRM-FIO-BTX-LEA"
+  },
+  {
+    "AppName": "My Leave Requests",
+    "ApplicationComponent": "PA-FIO"
+  },
+  {
+    "AppName": "My Leave Requests (Version 2)",
+    "ApplicationComponent": "PA-FIO"
+  },
+  {
+    "AppName": "My Option Plans",
+    "ApplicationComponent": "CA-RT-AP-FIO"
+  },
+  {
+    "AppName": "My Paystubs",
+    "ApplicationComponent": "PA-FIO"
+  },
+  {
+    "AppName": "My Paystubs (Version 2)",
+    "ApplicationComponent": "PA-FIO"
+  },
+  {
+    "AppName": "My Personal Details",
+    "ApplicationComponent": "IS-HER-FIO"
+  },
+  {
+    "AppName": "My Projects - Critical",
+    "ApplicationComponent": "PPM-FIO"
+  },
+  {
+    "AppName": "My Projects - Planned",
+    "ApplicationComponent": "PPM-FIO"
+  },
+  {
+    "AppName": "My Projects – Active",
+    "ApplicationComponent": "PPM-FIO"
+  },
+  {
+    "AppName": "My Projects – As a Substitute",
+    "ApplicationComponent": "PPM-FIO"
+  },
+  {
+    "AppName": "My Purchase Requisitions",
+    "ApplicationComponent": "MM-FIO-PUR-REQ"
+  },
+  {
+    "AppName": "My Purchasing Document Items",
+    "ApplicationComponent": "MM-FIO-PUR"
+  },
+  {
+    "AppName": "My Quality Tasks",
+    "ApplicationComponent": "QM-FIO"
+  },
+  {
+    "AppName": "My Quotation Pipeline",
+    "ApplicationComponent": "SD-FIO-SLS"
+  },
+  {
+    "AppName": "My Quotations",
+    "ApplicationComponent": "SD-FIO-SLS"
+  },
+  {
+    "AppName": "My Shopping Cart",
+    "ApplicationComponent": "SRM-FIO-SHP"
+  },
+  {
+    "AppName": "My Tasks",
+    "ApplicationComponent": "CRM-FIO-BTX-TAS"
+  },
+  {
+    "AppName": "My Tasks",
+    "ApplicationComponent": "PPM-FIO"
+  },
+  {
+    "AppName": "My Team Calendar",
+    "ApplicationComponent": "PA-FIO"
+  },
+  {
+    "AppName": "My Timetable",
+    "ApplicationComponent": "IS-HER-FIO"
+  },
+  {
+    "AppName": "My Travel Requests",
+    "ApplicationComponent": "FI-FIO-TV-MTR"
+  },
+  {
+    "AppName": "My Travel and Expenses",
+    "ApplicationComponent": "FI-FIO-TV-MTE"
+  },
+  {
+    "AppName": "My Unusual Items",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Net Margin",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Net Margin Results",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Net Sales",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Network Activity",
+    "ApplicationComponent": "PS-FIO"
+  },
+  {
+    "AppName": "Network Activity Overview",
+    "ApplicationComponent": "PS-FIO"
+  },
+  {
+    "AppName": "No. of Deliv. for Wave Pick Itms",
+    "ApplicationComponent": "SCM-EWM-FIO"
+  },
+  {
+    "AppName": "No. of Wave Pick Items",
+    "ApplicationComponent": "SCM-EWM-FIO"
+  },
+  {
+    "AppName": "Non-managed Spend",
+    "ApplicationComponent": "MM-FIO-PUR"
+  },
+  {
+    "AppName": "Off-contract Spend",
+    "ApplicationComponent": "MM-FIO-PUR"
+  },
+  {
+    "AppName": "On-Time Performance Arrival",
+    "ApplicationComponent": "SCM-EM-FIO"
+  },
+  {
+    "AppName": "On-Time Performance Departure",
+    "ApplicationComponent": "SCM-EM-FIO"
+  },
+  {
+    "AppName": "On-Time Performance POD",
+    "ApplicationComponent": "SCM-EM-FIO"
+  },
+  {
+    "AppName": "Open Disputes (S/4HANA)",
+    "ApplicationComponent": "FIN-FIO-CCD"
+  },
+  {
+    "AppName": "Open Orders - Total Orders Overview",
+    "ApplicationComponent": "LO-FSH-FIO-ARN"
+  },
+  {
+    "AppName": "Open Orders -Total Orders By Status",
+    "ApplicationComponent": "LO-FSH-FIO-ARN"
+  },
+  {
+    "AppName": "Open Purchase Orders",
+    "ApplicationComponent": "MM-FIO-PUR"
+  },
+  {
+    "AppName": "Open Reservations for Project",
+    "ApplicationComponent": "PS-FIO"
+  },
+  {
+    "AppName": "Overdue Completion of Wave Pick Tasks",
+    "ApplicationComponent": "SCM-EWM-FIO"
+  },
+  {
+    "AppName": "Overdue Item Analysis",
+    "ApplicationComponent": "XX-PROJ-FI-CA-FIO"
+  },
+  {
+    "AppName": "Overdue Materials - Stock in Transit",
+    "ApplicationComponent": "MM-FIO-IM-SGM"
+  },
+  {
+    "AppName": "Overdue Network Activities",
+    "ApplicationComponent": "PS-FIO"
+  },
+  {
+    "AppName": "Overdue Payables (S/4HANA)",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Overdue Payables (sFIN)",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Overdue Receivables (S/4HANA)",
+    "ApplicationComponent": "FI-FIO-AR"
+  },
+  {
+    "AppName": "Overdue Receivables (sFIN)",
+    "ApplicationComponent": "FI-FIO-AR"
+  },
+  {
+    "AppName": "PM Notification Re-Use Library",
+    "ApplicationComponent": "PM-FIO"
+  },
+  {
+    "AppName": "Payment Statistics (sFIN)",
+    "ApplicationComponent": "FIN-FIO-CLM"
+  },
+  {
+    "AppName": "Pct. of Compl. Wave Pick Item Tasks",
+    "ApplicationComponent": "SCM-EWM-FIO"
+  },
+  {
+    "AppName": "Perform Store Walk-Through",
+    "ApplicationComponent": "IS-R-FIO"
+  },
+  {
+    "AppName": "Physical Inventory",
+    "ApplicationComponent": "MM-FIO-IM"
+  },
+  {
+    "AppName": "Physical Inventory Document Overview",
+    "ApplicationComponent": "MM-IM-FIO"
+  },
+  {
+    "AppName": "Plan Procurement for Buy-Planner",
+    "ApplicationComponent": "LO-FSH-FIO-PPL"
+  },
+  {
+    "AppName": "Planned Order",
+    "ApplicationComponent": "PP-FIO-MRP"
+  },
+  {
+    "AppName": "Planned Order Object Page",
+    "ApplicationComponent": "PP-FIO-MRP"
+  },
+  {
+    "AppName": "Post Currency Adjustments",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Post General Journal Entries",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Post Goods Receipt for Purchase Order",
+    "ApplicationComponent": "MM-FIO-IM"
+  },
+  {
+    "AppName": "Post Incoming Payments",
+    "ApplicationComponent": "FI-FIO-AR"
+  },
+  {
+    "AppName": "Post Outgoing Payments",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Post Tax Payables",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Print Labels",
+    "ApplicationComponent": "IS-R-FIO"
+  },
+  {
+    "AppName": "Process Order Confirmation",
+    "ApplicationComponent": "PP-FIO-PI"
+  },
+  {
+    "AppName": "Process Order Confirmation Object Page",
+    "ApplicationComponent": "PP-FIO-PI"
+  },
+  {
+    "AppName": "Process Order Object Page",
+    "ApplicationComponent": "PP-FIO-PI"
+  },
+  {
+    "AppName": "Process Receivables",
+    "ApplicationComponent": "FIN-FIO-CCD"
+  },
+  {
+    "AppName": "Production Cost Analysis",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Production Order Confirmation",
+    "ApplicationComponent": "PP-FIO-SFC"
+  },
+  {
+    "AppName": "Production Order Confirmation Object Page",
+    "ApplicationComponent": "PP-FIO-SFC"
+  },
+  {
+    "AppName": "Production Order Object Page",
+    "ApplicationComponent": "PP-FIO-SFC"
+  },
+  {
+    "AppName": "Profit Analysis",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Profit Center (S/4HANA)",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Project Claim",
+    "ApplicationComponent": "PS-FIO"
+  },
+  {
+    "AppName": "Project Earned Value",
+    "ApplicationComponent": "PS-FIO"
+  },
+  {
+    "AppName": "Project Element Object Page",
+    "ApplicationComponent": "PPM-FIO"
+  },
+  {
+    "AppName": "Project Material Component",
+    "ApplicationComponent": "PS-FIO"
+  },
+  {
+    "AppName": "Project Percentage of Completion",
+    "ApplicationComponent": "PS-FIO"
+  },
+  {
+    "AppName": "Project Profitability",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Project WIP Details (SAP S4HANA OnPremise)",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Promises to Pay (S/4HANA)",
+    "ApplicationComponent": "FIN-FIO-CCD"
+  },
+  {
+    "AppName": "Promises to Pay (sFIN)",
+    "ApplicationComponent": "FIN-FIO-CCD"
+  },
+  {
+    "AppName": "Purchase Contract",
+    "ApplicationComponent": "MM-FIO-PUR"
+  },
+  {
+    "AppName": "Purchase Contract",
+    "ApplicationComponent": "MM-FIO-PUR-OA"
+  },
+  {
+    "AppName": "Purchase Contract Item",
+    "ApplicationComponent": "MM-FIO-PUR-OA"
+  },
+  {
+    "AppName": "Purchase Order",
+    "ApplicationComponent": "MM-FIO-PUR"
+  },
+  {
+    "AppName": "Purchase Order (SRM)",
+    "ApplicationComponent": "SRM-FIO-POR"
+  },
+  {
+    "AppName": "Purchase Requisition",
+    "ApplicationComponent": "MM-FIO-PUR"
+  },
+  {
+    "AppName": "Purchase Requisition Item",
+    "ApplicationComponent": "MM-FIO-PUR"
+  },
+  {
+    "AppName": "Purchase Requisition Item",
+    "ApplicationComponent": "MM-FIO-PUR-REQ"
+  },
+  {
+    "AppName": "Purchase Requisition Processing for Buy-Planner",
+    "ApplicationComponent": "LO-FSH-FIO-PPL"
+  },
+  {
+    "AppName": "Purchasing Info Record",
+    "ApplicationComponent": "MM-FIO-PUR"
+  },
+  {
+    "AppName": "Purchasing Info Record",
+    "ApplicationComponent": "MM-FIO-PUR-IR"
+  },
+  {
+    "AppName": "Quality Engineer Overview",
+    "ApplicationComponent": "QM-FIO"
+  },
+  {
+    "AppName": "Quality Notification",
+    "ApplicationComponent": "QM-FIO"
+  },
+  {
+    "AppName": "Quality Notification Activity",
+    "ApplicationComponent": "QM-FIO"
+  },
+  {
+    "AppName": "Quality Notification Item",
+    "ApplicationComponent": "QM-FIO"
+  },
+  {
+    "AppName": "Quality Notification Task",
+    "ApplicationComponent": "QM-FIO"
+  },
+  {
+    "AppName": "Quotation Conversion Rates",
+    "ApplicationComponent": "SD-FIO-HBA"
+  },
+  {
+    "AppName": "Recalculating Values",
+    "ApplicationComponent": "FI-FIO-AA"
+  },
+  {
+    "AppName": "Recipe Change Simulation",
+    "ApplicationComponent": "PLM-FIO"
+  },
+  {
+    "AppName": "Recipe Change Simulation",
+    "ApplicationComponent": "PLM-FIO-RCP"
+  },
+  {
+    "AppName": "Release Production Order Operations",
+    "ApplicationComponent": "PP-FIO-SFC"
+  },
+  {
+    "AppName": "Release Production Orders",
+    "ApplicationComponent": "PP-FIO-SFC"
+  },
+  {
+    "AppName": "Replicate Runtime Hierarchy",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Report Quality Issue",
+    "ApplicationComponent": "QM-FIO"
+  },
+  {
+    "AppName": "Reporting Compliance",
+    "ApplicationComponent": "SCM-EM-FIO"
+  },
+  {
+    "AppName": "Reprocess Bank Statement Items",
+    "ApplicationComponent": "FI-FIO-AR"
+  },
+  {
+    "AppName": "Reprocessing Rate of Incoming Payments",
+    "ApplicationComponent": "FI-FIO-AR"
+  },
+  {
+    "AppName": "Request Maintenance",
+    "ApplicationComponent": "PM-FIO"
+  },
+  {
+    "AppName": "Resource Object Page",
+    "ApplicationComponent": "PP-FIO-BD"
+  },
+  {
+    "AppName": "Retail Promotion",
+    "ApplicationComponent": "IS-R-FIO"
+  },
+  {
+    "AppName": "Retail Promotion Execution Cockpit - Issues per Area of Responsibility",
+    "ApplicationComponent": "IS-R-FIO"
+  },
+  {
+    "AppName": "Retail Promotion Execution Cockpit - Overdue Issues",
+    "ApplicationComponent": "IS-R-FIO"
+  },
+  {
+    "AppName": "Retail Promotion Execution Cockpit - Overdue Issues: Role based",
+    "ApplicationComponent": "IS-R-FIO"
+  },
+  {
+    "AppName": "Retail Promotion Execution Cockpit - Promotions with Issues",
+    "ApplicationComponent": "IS-R-FIO"
+  },
+  {
+    "AppName": "Retail Promotion Execution Cockpit - Total Issue in Promotions",
+    "ApplicationComponent": "IS-R-FIO"
+  },
+  {
+    "AppName": "Retail Promotion Execution Cockpit - Total Issues in Promotions",
+    "ApplicationComponent": "IS-R-FIO"
+  },
+  {
+    "AppName": "Retail Store Reuse Component",
+    "ApplicationComponent": "IS-R-FIO"
+  },
+  {
+    "AppName": "Reusable Component for Employee Lookup & People Profile",
+    "ApplicationComponent": "PA-FIO"
+  },
+  {
+    "AppName": "Reusable Component for UOM",
+    "ApplicationComponent": "PP-FIO-PN"
+  },
+  {
+    "AppName": "Reuse ClearPayments",
+    "ApplicationComponent": "FI-FIO-AR"
+  },
+  {
+    "AppName": "Revise Payment Proposals",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Sales Analysis Reuse",
+    "ApplicationComponent": "CA-RT-AP-FIO"
+  },
+  {
+    "AppName": "Sales Contract",
+    "ApplicationComponent": "SD-FIO-SLS"
+  },
+  {
+    "AppName": "Sales Contract Fulfillment Rates",
+    "ApplicationComponent": "SD-FIO-HBA"
+  },
+  {
+    "AppName": "Sales Group Contract",
+    "ApplicationComponent": "SD-FIO-SLS"
+  },
+  {
+    "AppName": "Sales Order",
+    "ApplicationComponent": "SD-FIO-SLS"
+  },
+  {
+    "AppName": "Sales Order BOM",
+    "ApplicationComponent": "PLM-FIO-BOM"
+  },
+  {
+    "AppName": "Sales Order Fulfillment Issues",
+    "ApplicationComponent": "SD-FIO-HBA"
+  },
+  {
+    "AppName": "Sales Quotation",
+    "ApplicationComponent": "SD-FIO-SLS"
+  },
+  {
+    "AppName": "Sales Volume",
+    "ApplicationComponent": "SD-FIO-HBA"
+  },
+  {
+    "AppName": "Sales Volume - Check Open Sales",
+    "ApplicationComponent": "SD-FIO-HBA"
+  },
+  {
+    "AppName": "Sales Volume - Detailed Analysis",
+    "ApplicationComponent": "SD-FIO-HBA"
+  },
+  {
+    "AppName": "Sales Volume - Flexible Analysis",
+    "ApplicationComponent": "SD-FIO-HBA"
+  },
+  {
+    "AppName": "Sales Volume - Profit Margin",
+    "ApplicationComponent": "SD-FIO-HBA"
+  },
+  {
+    "AppName": "Sales Volume - Profit Margin / Credit Memos",
+    "ApplicationComponent": "SD-FIO-HBA"
+  },
+  {
+    "AppName": "Schedule Accounts Payable Jobs",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Schedule Accounts Receivable Jobs",
+    "ApplicationComponent": "FI-FIO-AR"
+  },
+  {
+    "AppName": "Schedule Actual Overhead Allocation (Cost Centers)",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Schedule Actual Overhead Allocation (Profitability Analysis)",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Schedule Actual Settlement For Projects",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Schedule Asset Accounting Jobs",
+    "ApplicationComponent": "FI-FIO-AA"
+  },
+  {
+    "AppName": "Schedule Delivery Creation",
+    "ApplicationComponent": "LE-FIO"
+  },
+  {
+    "AppName": "Schedule General Ledger Accounting Jobs",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Schedule Payment Proposals",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Schedule Results Analysis For Projects",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Search Form Bundles",
+    "ApplicationComponent": "PSM-PSO-FIO"
+  },
+  {
+    "AppName": "Search for Cost Centers",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Service Master Data",
+    "ApplicationComponent": "MM-FIO-PUR"
+  },
+  {
+    "AppName": "Settings For Release Strategy",
+    "ApplicationComponent": "MM-FIO-PUR"
+  },
+  {
+    "AppName": "Settings for Creation of Reservation",
+    "ApplicationComponent": "MM-FIO-PUR-REQ"
+  },
+  {
+    "AppName": "Settings for Release Strategy Classes",
+    "ApplicationComponent": "MM-FIO-PUR"
+  },
+  {
+    "AppName": "Shopping Cart Item",
+    "ApplicationComponent": "SRM-FIO-SHP"
+  },
+  {
+    "AppName": "Simulate Sales Pipeline",
+    "ApplicationComponent": "CRM-FIO-ANA-PPM"
+  },
+  {
+    "AppName": "Special G/L Posting",
+    "ApplicationComponent": "FI-FIO-AR"
+  },
+  {
+    "AppName": "Spend Comparison",
+    "ApplicationComponent": "MM-FIO-PUR"
+  },
+  {
+    "AppName": "Statistical Key Figure (ERP)",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Statistical Key Figure (S/4HANA)",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Statistical Key Figure (sFIN)",
+    "ApplicationComponent": "CO-FIO"
+  },
+  {
+    "AppName": "Stock - Multiple Materials",
+    "ApplicationComponent": "MM-FIO-IM"
+  },
+  {
+    "AppName": "Stock - Single Material",
+    "ApplicationComponent": "MM-FIO-IM"
+  },
+  {
+    "AppName": "Stock Champion",
+    "ApplicationComponent": "PP-FIO-SC"
+  },
+  {
+    "AppName": "Supplier Evaluation by Questionnaire",
+    "ApplicationComponent": "MM-PUR-FIO-ANA"
+  },
+  {
+    "AppName": "Supplier Payment Analysis (Manual and Automatic Payments) (S/4HANA)",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Supplier Payment Analysis (Manual and Automatic Payments) (sFIN)",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Supplier Payment Analysis(Open Payments)",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Task Execution Performance",
+    "ApplicationComponent": "SCM-EWM-FIO"
+  },
+  {
+    "AppName": "Task List",
+    "ApplicationComponent": "PM-FIO"
+  },
+  {
+    "AppName": "Team Services",
+    "ApplicationComponent": "PA-FIO"
+  },
+  {
+    "AppName": "Top Articles By Status",
+    "ApplicationComponent": "LO-FSH-FIO-ARN"
+  },
+  {
+    "AppName": "Total Receivables (S/4HANA)",
+    "ApplicationComponent": "FI-FIO-AR"
+  },
+  {
+    "AppName": "Total Receivables (sFIN)",
+    "ApplicationComponent": "FI-FIO-AR"
+  },
+  {
+    "AppName": "Track Bank Transfers",
+    "ApplicationComponent": "FIN-FIO-CLM"
+  },
+  {
+    "AppName": "Track My Degree Requirements",
+    "ApplicationComponent": "IS-HER-FIO"
+  },
+  {
+    "AppName": "Track Purchase Order",
+    "ApplicationComponent": "MM-FIO-PUR"
+  },
+  {
+    "AppName": "Track Sales Orders",
+    "ApplicationComponent": "SD-FIO-SLS"
+  },
+  {
+    "AppName": "Track Sales Pipeline",
+    "ApplicationComponent": "CRM-FIO-ANA-PPM"
+  },
+  {
+    "AppName": "Track Shipments",
+    "ApplicationComponent": "LE-FIO"
+  },
+  {
+    "AppName": "Track Shopping Carts",
+    "ApplicationComponent": "SRM-FIO-SHP"
+  },
+  {
+    "AppName": "Track Supplier Invoices",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Transfer Stock",
+    "ApplicationComponent": "IS-R-FIO"
+  },
+  {
+    "AppName": "Transfer Stock",
+    "ApplicationComponent": "MM-FIO-IM"
+  },
+  {
+    "AppName": "Transfer Stock - Cross-Plant",
+    "ApplicationComponent": "MM-FIO-IM"
+  },
+  {
+    "AppName": "Transfer Stock - In-Plant",
+    "ApplicationComponent": "MM-FIO-IM"
+  },
+  {
+    "AppName": "Transportation Cost",
+    "ApplicationComponent": "TM-BF-FIO"
+  },
+  {
+    "AppName": "Transportation Cost (Version 2)",
+    "ApplicationComponent": "TM-BF-FIO"
+  },
+  {
+    "AppName": "Transportation Cost by Volume",
+    "ApplicationComponent": "TM-BF-FIO"
+  },
+  {
+    "AppName": "Transportation Cost by Weight",
+    "ApplicationComponent": "TM-BF-FIO"
+  },
+  {
+    "AppName": "Transportation Cost by Weight and Distance",
+    "ApplicationComponent": "TM-BF-FIO"
+  },
+  {
+    "AppName": "Transportation Lane",
+    "ApplicationComponent": "SCM-BAS-FIO"
+  },
+  {
+    "AppName": "Transportation Orders",
+    "ApplicationComponent": "TM-BF-FIO"
+  },
+  {
+    "AppName": "Transportation Orders with Discrepancies",
+    "ApplicationComponent": "TM-BF-FIO"
+  },
+  {
+    "AppName": "Transportation Profit",
+    "ApplicationComponent": "TM-BF-FIO"
+  },
+  {
+    "AppName": "Transportation Profit (Version 2)",
+    "ApplicationComponent": "TM-BF-FIO"
+  },
+  {
+    "AppName": "Transportation Requirements",
+    "ApplicationComponent": "TM-BF-FIO"
+  },
+  {
+    "AppName": "Transportation Revenue",
+    "ApplicationComponent": "TM-BF-FIO"
+  },
+  {
+    "AppName": "Transportation Revenue (Version 2)",
+    "ApplicationComponent": "TM-BF-FIO"
+  },
+  {
+    "AppName": "Transported Volume",
+    "ApplicationComponent": "TM-BF-FIO"
+  },
+  {
+    "AppName": "Transported Weight",
+    "ApplicationComponent": "TM-BF-FIO"
+  },
+  {
+    "AppName": "Treasury Position Analysis",
+    "ApplicationComponent": "FIN-FIO-TRM"
+  },
+  {
+    "AppName": "Trial Balance",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Trial Balance (Version 2)",
+    "ApplicationComponent": "FI-FIO-GL"
+  },
+  {
+    "AppName": "Unused Contracts",
+    "ApplicationComponent": "MM-FIO-PUR"
+  },
+  {
+    "AppName": "Upload Production Data",
+    "ApplicationComponent": "PP-FIO-PN-FC"
+  },
+  {
+    "AppName": "Variant configuration valuation",
+    "ApplicationComponent": "LO-VCH-FIO-VAL"
+  },
+  {
+    "AppName": "Vendor Accounting Document (ERP)",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Vendor Accounting Document (S/4HANA)",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Vendor Accounting Document (sFIN)",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Vendor Payment Analysis",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Vendor Payment Analysis(Open Payments)",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "View Forecast Results",
+    "ApplicationComponent": "PP-FIO-PN-FC"
+  },
+  {
+    "AppName": "Volume of Wave Pick Items",
+    "ApplicationComponent": "SCM-EWM-FIO"
+  },
+  {
+    "AppName": "WBS Element Cost Variance",
+    "ApplicationComponent": "PS-FIO"
+  },
+  {
+    "AppName": "WBS Element Costs at Risk",
+    "ApplicationComponent": "PS-FIO"
+  },
+  {
+    "AppName": "WBS Element Earned Value",
+    "ApplicationComponent": "PS-FIO"
+  },
+  {
+    "AppName": "WBS Element Percentage of Completion",
+    "ApplicationComponent": "PS-FIO"
+  },
+  {
+    "AppName": "WBS-Element Revenue Variance",
+    "ApplicationComponent": "PS-FIO"
+  },
+  {
+    "AppName": "Weight of Wave Pick Items",
+    "ApplicationComponent": "SCM-EWM-FIO"
+  },
+  {
+    "AppName": "Work Center Object Page",
+    "ApplicationComponent": "PP-FIO-BD"
+  },
+  {
+    "AppName": "Working Capital Analytics - DPO Analysis",
+    "ApplicationComponent": "FI-FIO-AP"
+  },
+  {
+    "AppName": "Working Capital Analytics - DSO Analysis",
+    "ApplicationComponent": "FI-FIO-AR"
+  },
+  {
+    "AppName": "Workload Management - Claims",
+    "ApplicationComponent": "FS-FIO"
+  },
+  {
+    "AppName": "Workload Management - Tasks",
+    "ApplicationComponent": "FS-FIO"
+  },
+  {
+    "AppName": "Workload Management - Team Calendar",
+    "ApplicationComponent": "FS-FIO"
+  },
+  {
+    "AppName": "Write-Off Analysis",
+    "ApplicationComponent": "XX-PROJ-FI-CA-FIO"
+  }
+]

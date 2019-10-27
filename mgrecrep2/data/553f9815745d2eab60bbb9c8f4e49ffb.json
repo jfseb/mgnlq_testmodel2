@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "593086164ccb27b0c7f788aa",
+    "modelname": "dna_aminoacids",
+    "__v": 0,
+    "domain": "GeneticDNA",
+    "mongoosemodelname": "dna_aminoacid",
+    "collectionname": "dna_aminoacids",
+    "props": {
+      "Amino_acid": {
+        "index": true,
+        "_m_category": "Amino acid",
+        "trim": true,
+        "type": "String"
+      },
+      "nucleotid_sequence": {
+        "index": true,
+        "_m_category": "nucleotid sequence",
+        "trim": true,
+        "type": "String"
+      }
+    },
+    "index": {
+      "Amino_acid": "text",
+      "nucleotid_sequence": "text"
+    }
+  }
+]

@@ -46,7 +46,7 @@
   },
   "dependencies": {
     "abot_utils": "^1.0.3",
-    "mgnlq_model": "^0.0.10",
+    "mgnlq_model": "0.0.10",
     "mongoose_record_replay": "^0.0.8"
   }
 }

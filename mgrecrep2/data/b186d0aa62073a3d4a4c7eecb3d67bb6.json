@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "5948142f2fa35240c8dc72f1",
+    "tcode": "SOBJ",
+    "devclass": "SCTS_OBJ",
+    "transaction_description": "Maintenance Object Attributes",
+    "__v": 0
+  },
+  {
+    "_id": "5948142f2fa35240c8dc72f2",
+    "tcode": "SOBL_MODEL",
+    "devclass": "SOBL",
+    "transaction_description": "Model Data Object Relationships",
+    "__v": 0
+  },
+  {
+    "_id": "5948142f2fa35240c8dc72f3",
+    "tcode": "LICENSE_ATTRIBUTES",
+    "devclass": "SLIM",
+    "transaction_description": "Maintain License Attributes of Roles",
+    "__v": 0
+  },
+  {
+    "_id": "5948142f2fa35240c8dc72f4",
+    "tcode": "MI_SYNEWS",
+    "devclass": "S_ME_MESSAGES",
+    "transaction_description": "MI SystemNews",
+    "__v": 0
+  }
+]

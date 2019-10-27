@@ -1,0 +1,109 @@
+[
+  {
+    "_id": "592ffc214ccb27b0c7f78859",
+    "modelname": "metamodels",
+    "__v": 0,
+    "collectionname": "metamodels",
+    "mongoosemodelname": "metamodel",
+    "domain": "metamodel",
+    "domain_description": "metamodel",
+    "_categories": [
+      {
+        "exactmatch": false,
+        "wordindex": false,
+        "category_description": "link to domain description",
+        "category": "uri",
+        "_id": "5930861615cb45023c078d4a",
+        "QBEColumnProps": {
+          "QBE": true
+        },
+        "category_synonyms": []
+      },
+      {
+        "exactmatch": false,
+        "wordindex": true,
+        "category_description": "a technical key, combination of appId and releaseId",
+        "category": "domain",
+        "_id": "5930861615cb45023c078d49",
+        "QBEColumnProps": {
+          "LUNRIndex": true,
+          "QBE": true
+        },
+        "category_synonyms": []
+      },
+      {
+        "exactmatch": true,
+        "category_description": "a technical key, combination of appId and releaseId",
+        "category": "domain description",
+        "_id": "5930861615cb45023c078d48",
+        "QBEColumnProps": {
+          "QBE": true
+        },
+        "category_synonyms": []
+      },
+      {
+        "wordindex": true,
+        "category_description": "Object property",
+        "category": "category",
+        "_id": "5930861615cb45023c078d47",
+        "QBEColumnProps": {
+          "LUNRIndex": true,
+          "QBE": true
+        },
+        "category_synonyms": []
+      },
+      {
+        "category_description": "Description of the category",
+        "category": "category description",
+        "_id": "5930861615cb45023c078d46",
+        "category_synonyms": []
+      },
+      {
+        "category_description": "whether to include the category in QBE tables",
+        "category": "QBE",
+        "_id": "5930861615cb45023c078d45",
+        "category_synonyms": []
+      },
+      {
+        "category_description": "whether to include the category in a LUNR Index",
+        "category": "LUNRIndex",
+        "_id": "5930861615cb45023c078d44",
+        "category_synonyms": []
+      },
+      {
+        "category_description": "whether to include the category in a LUNR Index",
+        "category": "wordindex",
+        "_id": "5930861615cb45023c078d43",
+        "category_synonyms": []
+      },
+      {
+        "category_description": "whether a match on a given value has to be precise",
+        "category": "exactmatch",
+        "_id": "5930861615cb45023c078d42",
+        "category_synonyms": []
+      },
+      {
+        "category_description": "synonyms for the category",
+        "category": "category synonyms",
+        "_id": "5930861615cb45023c078d41",
+        "category_synonyms": []
+      },
+      {
+        "category_description": "the columns in order which are shon in a table",
+        "category": "columns",
+        "_id": "5930861615cb45023c078d40",
+        "category_synonyms": []
+      }
+    ],
+    "columns": [
+      "domain",
+      "category",
+      "exactmatch",
+      "domain description",
+      "category description"
+    ],
+    "domain_synonyms": [
+      "meta model"
+    ]
+  }
+]

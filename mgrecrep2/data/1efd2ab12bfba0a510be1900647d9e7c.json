@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "593086164ccb27b0c7f788af",
+    "modelname": "questions",
+    "__v": 0,
+    "domain": "example questions",
+    "mongoosemodelname": "question",
+    "collectionname": "questions",
+    "props": {
+      "questionId": {
+        "_m_category": "questionId",
+        "trim": true,
+        "type": "String"
+      },
+      "example_question": {
+        "_m_category": "example question",
+        "trim": true,
+        "type": "String"
+      }
+    },
+    "index": {}
+  }
+]

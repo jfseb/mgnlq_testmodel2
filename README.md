@@ -90,6 +90,8 @@ Similar, in RECORD mode, mgrecrep/queries.json and mgrecrep/data may be extened 
 
 ## Rebuilding the model from scratch (raw files)
 
+check database name in constants.ts
+
 ```
 npm run create_db
 ```
