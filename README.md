@@ -29,7 +29,7 @@ and an hard coded instantiation hook assuming:
 | Property |   |Value (hard coded!)
 |:---------|---|:----------------------------
 |*Mongo DB Connection string*  ||  `'mongodb://localhost/testdb2'`
-|*data Folder*        | | `mgrecrep2/`
+|*recordign folder*        | | `test/data/mongoose_record_replay/testdb2/`
 |Control environment varialbe || `MGNLQ_TESTMODEL2_REPLAY`
 
 
@@ -90,9 +90,10 @@ Similar, in RECORD mode, mgrecrep/queries.json and mgrecrep/data may be extened 
 
 ## Rebuilding the model from scratch (raw files)
 
-check database name in constants.ts
+check database name in constants.ts (typically testdb2)
 
 ```
+env_reset.cmd
 npm run create_db
 ```
 

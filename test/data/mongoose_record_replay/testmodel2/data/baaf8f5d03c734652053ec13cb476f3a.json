@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "5db4e0280f684a20a047b4c2",
+    "modelname": "dna_aminoacids",
+    "__v": 0,
+    "columns": [],
+    "_categories": [
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494ad9",
+        "category": "nucleotid sequence",
+        "category_description": "triplet of nucleotids encoding this amino acid",
+        "wordindex": true
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494ad8",
+        "category": "Amino acid",
+        "category_description": "Name encoding",
+        "wordindex": true
+      }
+    ],
+    "collectionname": "dna_aminoacids",
+    "domain_description": "an incomplte model of the Amino acids and associated DNA triples",
+    "domain": "GeneticDNA"
+  }
+]

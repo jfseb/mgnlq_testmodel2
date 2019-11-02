@@ -5,6 +5,11 @@
       "trim": true,
       "_m_category": "uri"
     },
+    "uri_rank": {
+      "type": "Number",
+      "trim": true,
+      "_m_category": "uri_rank"
+    },
     "AppKey": {
       "type": "String",
       "trim": true,

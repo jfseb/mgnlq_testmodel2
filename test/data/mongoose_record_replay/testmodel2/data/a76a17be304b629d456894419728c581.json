@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "5dbcca51a32e0923f23b1c28",
+    "modelname": "commands",
+    "__v": 0,
+    "index": {
+      "example_commands": "text"
+    },
+    "props": {
+      "example_commands": {
+        "type": "String",
+        "trim": true,
+        "_m_category": "example commands",
+        "index": true
+      }
+    },
+    "collectionname": "commands",
+    "mongoosemodelname": "commands",
+    "domain": "example commands"
+  }
+]

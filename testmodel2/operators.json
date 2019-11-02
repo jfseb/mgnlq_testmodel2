@@ -62,6 +62,42 @@
           "category"
         ]
       ]
+    },
+    "more than" : {
+      "arity": 2,
+      "operatorpos" : -1,
+      "argcategory": [
+        [
+          "number"
+        ],
+        [
+          "category"
+        ]
+      ]
+    },
+    "less than" : {
+      "arity": 2,
+      "operatorpos" : -1,
+      "argcategory": [
+        [
+          "number"
+        ],
+        [
+          "category"
+        ]
+      ]
+    },
+    "exactly" : {
+      "arity": 2,
+      "operatorpos" : -1,
+      "argcategory": [
+        [
+          "number"
+        ],
+        [
+          "category"
+        ]
+      ]
     }
   },
   "synonyms": {
@@ -81,6 +117,15 @@
     ],
     "having": [
       "has a", "has an"
+    ],
+    "more than": [
+      "which has more than"
+    ],
+    "less than": [
+      "which has less than"
+    ],
+    "exactly": [
+      "which has exactly"
     ]
   }
 }

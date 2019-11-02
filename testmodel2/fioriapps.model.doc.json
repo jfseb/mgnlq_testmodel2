@@ -7,7 +7,16 @@
       "category_description": "link to fiori app reference library",
       "QBEColumnProps": {
         "QBEInclude": true
-      }
+      },
+      "showURI" : true
+    },
+    {
+      "category": "uri_rank",
+      "category_description": "Sort criteria for URI",
+      "QBEColumnProps": {
+        "QBEInclude": false
+      },
+      "showURIRank" : true
     },
     {
       "category": "AppKey",

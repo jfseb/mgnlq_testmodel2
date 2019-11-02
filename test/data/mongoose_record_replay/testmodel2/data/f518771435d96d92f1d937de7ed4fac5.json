@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "5db4e02c0f684a20a047b4cb",
+    "modelname": "questions",
+    "__v": 0,
+    "columns": [],
+    "_categories": [
+      {
+        "category_synonyms": [
+          "questions",
+          "sample questions",
+          "sample question"
+        ],
+        "_id": "5dbcca51d86649084c494bc2",
+        "category": "example question",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": false,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494bc1",
+        "category": "questionId",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": false,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      }
+    ],
+    "collectionname": "questions",
+    "domain": "example questions"
+  }
+]

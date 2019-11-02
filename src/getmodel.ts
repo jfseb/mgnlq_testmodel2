@@ -22,19 +22,24 @@ var mongooseMock = mongoose_record_replay.instrumentMongoose(mongoose,
 
 var aPromise = undefined;
 
+var aPromise = undefined;
+
+function loadModel() {
+  return Model.loadModelsOpeningConnection(mongooseMock, Constants.MONGO_DBURL, Constants.MODEL_PATH);
+}
+
 /**
  * Obtain a model instance,
  *
  * note: the model must be closed via
  * Model.releaseModel(theModelInstance)
  */
-export function getTestModel(): Promise<IFModel.IModels> {
+export function getTestModel(): Promise<void | IFModel.IModels> {
   if (mode === 'REPLAY') {
     // determine mode
     // in replax mode, using a singleton is sufficient
-    aPromise = aPromise || Model.loadModelsOpeningConnection(mongooseMock,
-      Constants.MONGO_DBURL, Constants.MODEL_PATH);
+    aPromise = aPromise || loadModel();
     return aPromise;
   }
-  return Model.loadModelsOpeningConnection(mongooseMock, Constants.MONGO_DBURL, Constants.MODEL_PATH);
+  return loadModel();
 }

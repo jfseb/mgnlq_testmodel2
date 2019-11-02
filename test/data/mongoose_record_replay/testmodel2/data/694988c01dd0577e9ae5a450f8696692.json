@@ -1,0 +1,2131 @@
+[
+  {
+    "_id": "5db4e02c0f684a20a047b4cd",
+    "modelname": "twf_countries",
+    "__v": 0,
+    "columns": [],
+    "_categories": [
+      {
+        "category_synonyms": [
+          "countries"
+        ],
+        "_id": "5dbcca51d86649084c494bc0",
+        "category": "country",
+        "category_description": "name of a country",
+        "wordindex": true,
+        "exactmatch": false,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494bbf",
+        "category": "fieldId",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494bbe",
+        "category": "fieldName",
+        "category_description": "",
+        "wordindex": true,
+        "exactmatch": false,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494bbd",
+        "category": "TRANSPORTATION - NOTE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494bbc",
+        "category": "DIPLOMATIC REPRESENTATION FROM THE US",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494bbb",
+        "category": "DEPENDENCY STATUS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494bba",
+        "category": "AFFILIATION",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494bb9",
+        "category": "GDP - PER CAPITA (PPP)",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494bb8",
+        "category": "GDP - REAL GROWTH RATE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494bb7",
+        "category": "POPULATION GROWTH RATE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [
+          "GDP"
+        ],
+        "_id": "5dbcca51d86649084c494bb6",
+        "category": "GDP (PURCHASING POWER PARITY)",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494bb5",
+        "category": "DEPENDENCY RATIOS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494bb4",
+        "category": "GROSS NATIONAL SAVING",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494bb3",
+        "category": "GDP - COMPOSITION, BY END USE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494bb2",
+        "category": "CONTRACEPTIVE PREVALENCE RATE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494bb1",
+        "category": "DEMOGRAPHIC PROFILE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494bb0",
+        "category": "MOTHER'S MEAN AGE AT FIRST BIRTH",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494baf",
+        "category": "CHILD LABOR - CHILDREN AGES 5-14",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494bae",
+        "category": "CARBON DIOXIDE EMISSIONS FROM CONSUMPTION OF ENERGY",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494bad",
+        "category": "NATURAL GAS - PROVED RESERVES",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494bac",
+        "category": "NATURAL GAS - IMPORTS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494bab",
+        "category": "NATURAL GAS - EXPORTS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494baa",
+        "category": "NATURAL GAS - CONSUMPTION",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494ba9",
+        "category": "NATURAL GAS - PRODUCTION",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494ba8",
+        "category": "REFINED PETROLEUM PRODUCTS - IMPORTS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494ba7",
+        "category": "REFINED PETROLEUM PRODUCTS - EXPORTS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494ba6",
+        "category": "REFINED PETROLEUM PRODUCTS - CONSUMPTION",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494ba5",
+        "category": "REFINED PETROLEUM PRODUCTS - PRODUCTION",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494ba4",
+        "category": "CRUDE OIL - PROVED RESERVES",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494ba3",
+        "category": "CRUDE OIL - IMPORTS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494ba2",
+        "category": "CRUDE OIL - EXPORTS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494ba1",
+        "category": "CRUDE OIL - PRODUCTION",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494ba0",
+        "category": "ELECTRICITY - FROM OTHER RENEWABLE SOURCES",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b9f",
+        "category": "ELECTRICITY - FROM NUCLEAR FUELS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b9e",
+        "category": "ELECTRICITY - FROM HYDROELECTRIC PLANTS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b9d",
+        "category": "ELECTRICITY - FROM FOSSIL FUELS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b9c",
+        "category": "ELECTRICITY - INSTALLED GENERATING CAPACITY",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b9b",
+        "category": "ELECTRICITY - IMPORTS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b9a",
+        "category": "ELECTRICITY - EXPORTS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b99",
+        "category": "ELECTRICITY - CONSUMPTION",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b98",
+        "category": "ELECTRICITY - PRODUCTION",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b97",
+        "category": "NATIONAL SYMBOL(S)",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b96",
+        "category": "UNEMPLOYMENT, YOUTH AGES 15-24",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b95",
+        "category": "OBESITY - ADULT PREVALENCE RATE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b94",
+        "category": "HOSPITAL BED DENSITY",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b93",
+        "category": "PHYSICIANS DENSITY",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b92",
+        "category": "HEALTH EXPENDITURES",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b91",
+        "category": "CHILDREN UNDER THE AGE OF 5 YEARS UNDERWEIGHT",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b90",
+        "category": "MATERNAL MORTALITY RATE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b8f",
+        "category": "BUDGET SURPLUS (+) OR DEFICIT (-)",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b8e",
+        "category": "TAXES AND OTHER REVENUES",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b8d",
+        "category": "INTERNATIONAL LAW ORGANIZATION PARTICIPATION",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b8c",
+        "category": "MAJOR URBAN AREAS - POPULATION",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b8b",
+        "category": "NATIONAL ANTHEM",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b8a",
+        "category": "SANITATION FACILITY ACCESS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b89",
+        "category": "DRINKING WATER SOURCE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b88",
+        "category": "STOCK OF BROAD MONEY",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b87",
+        "category": "STOCK OF NARROW MONEY",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b86",
+        "category": "BROADCAST MEDIA",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b85",
+        "category": "URBANIZATION",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b84",
+        "category": "STOCK OF DOMESTIC CREDIT",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b83",
+        "category": "STOCK OF QUASI MONEY",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b82",
+        "category": "STOCK OF MONEY",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b81",
+        "category": "COMMERCIAL BANK PRIME LENDING RATE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b80",
+        "category": "CENTRAL BANK DISCOUNT RATE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b7f",
+        "category": "EDUCATION EXPENDITURES",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b7e",
+        "category": "SCHOOL LIFE EXPECTANCY (PRIMARY TO TERTIARY EDUCATION)",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b7d",
+        "category": "ECONOMY OF THE AREA ADMINISTERED BY TURKISH CYPRIOTS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b7c",
+        "category": "GEOGRAPHIC OVERVIEW",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b7b",
+        "category": "FRESHWATER WITHDRAWAL (DOMESTIC/INDUSTRIAL/AGRICULTURAL)",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b7a",
+        "category": "TOTAL RENEWABLE WATER RESOURCES",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b79",
+        "category": "MARKET VALUE OF PUBLICLY TRADED SHARES",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b78",
+        "category": "STOCK OF DIRECT FOREIGN INVESTMENT - ABROAD",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b77",
+        "category": "STOCK OF DIRECT FOREIGN INVESTMENT - AT HOME",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b76",
+        "category": "TRAFFICKING IN PERSONS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b75",
+        "category": "GDP (OFFICIAL EXCHANGE RATE)",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b74",
+        "category": "REFUGEES AND INTERNALLY DISPLACED PERSONS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b73",
+        "category": "MAJOR INFECTIOUS DISEASES",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b72",
+        "category": "PRELIMINARY STATEMENT",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b71",
+        "category": "MEMBER STATES",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b70",
+        "category": "POLITICAL STRUCTURE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b6f",
+        "category": "UNION NAME",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b6e",
+        "category": "RESERVES OF FOREIGN EXCHANGE AND GOLD",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b6d",
+        "category": "CURRENT ACCOUNT BALANCE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [
+          "debt"
+        ],
+        "_id": "5dbcca51d86649084c494b6c",
+        "category": "PUBLIC DEBT",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b6b",
+        "category": "INTERNET HOSTS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b6a",
+        "category": "MEDIAN AGE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b69",
+        "category": "DISTRIBUTION OF FAMILY INCOME - GINI INDEX",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b68",
+        "category": "HIV/AIDS - DEATHS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b67",
+        "category": "HIV/AIDS - PEOPLE LIVING WITH HIV/AIDS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b66",
+        "category": "HIV/AIDS - ADULT PREVALENCE RATE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b65",
+        "category": "INTERNET COUNTRY CODE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b64",
+        "category": "INTERNET USERS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b63",
+        "category": "TELEPHONES - MOBILE CELLULAR",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b62",
+        "category": "TELEPHONES - MAIN LINES IN USE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b61",
+        "category": "DIPLOMATIC REPRESENTATION IN THE US",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b60",
+        "category": "AREA",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b5f",
+        "category": "IRRIGATED LAND",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b5e",
+        "category": "MAP REFERENCES",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b5d",
+        "category": "LOCATION",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b5c",
+        "category": "COUNTRY NAME",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b5b",
+        "category": "GOVERNMENT - NOTE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b5a",
+        "category": "COMMUNICATIONS - NOTE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b59",
+        "category": "MILITARY - NOTE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b58",
+        "category": "UNEMPLOYMENT RATE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b57",
+        "category": "GOVERNMENT TYPE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b56",
+        "category": "TOTAL FERTILITY RATE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b55",
+        "category": "TERRAIN",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b54",
+        "category": "TELEPHONE SYSTEM",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b53",
+        "category": "SUFFRAGE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b52",
+        "category": "RELIGIONS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b51",
+        "category": "RAILWAYS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b50",
+        "category": "PORTS AND TERMINALS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b4f",
+        "category": "POPULATION",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b4e",
+        "category": "POLITICAL PARTIES AND LEADERS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b4d",
+        "category": "PIPELINES",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b4c",
+        "category": "ECONOMY - OVERVIEW",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b4b",
+        "category": "POLITICAL PRESSURE GROUPS AND LEADERS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b4a",
+        "category": "GEOGRAPHY - NOTE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b49",
+        "category": "NET MIGRATION RATE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b48",
+        "category": "NATURAL RESOURCES",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b47",
+        "category": "NATIONALITY",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b46",
+        "category": "NATIONAL HOLIDAY",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b45",
+        "category": "MERCHANT MARINE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b44",
+        "category": "INTERNATIONAL ORGANIZATION PARTICIPATION",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b43",
+        "category": "MARITIME CLAIMS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b42",
+        "category": "MANPOWER AVAILABLE FOR MILITARY SERVICE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b41",
+        "category": "LITERACY",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b40",
+        "category": "LIFE EXPECTANCY AT BIRTH",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b3f",
+        "category": "LEGISLATIVE BRANCH",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b3e",
+        "category": "LEGAL SYSTEM",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b3d",
+        "category": "LANGUAGES",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b3c",
+        "category": "LAND USE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b3b",
+        "category": "LAND BOUNDARIES",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b3a",
+        "category": "LABOR FORCE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b39",
+        "category": "JUDICIAL BRANCH",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b38",
+        "category": "WATERWAYS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b37",
+        "category": "INFLATION RATE (CONSUMER PRICES)",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b36",
+        "category": "INFANT MORTALITY RATE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b35",
+        "category": "INDUSTRIES",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b34",
+        "category": "INDUSTRIAL PRODUCTION GROWTH RATE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b33",
+        "category": "INDEPENDENCE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b32",
+        "category": "IMPORTS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b31",
+        "category": "ILLICIT DRUGS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b30",
+        "category": "ROADWAYS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b2f",
+        "category": "FLAG DESCRIPTION",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b2e",
+        "category": "FISCAL YEAR",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b2d",
+        "category": "DEBT - EXTERNAL",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b2c",
+        "category": "EXPORTS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b2b",
+        "category": "EXECUTIVE BRANCH",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b2a",
+        "category": "EXCHANGE RATES",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b29",
+        "category": "ETHNIC GROUPS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b28",
+        "category": "DISPUTES - INTERNATIONAL",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b27",
+        "category": "DEPENDENT AREAS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b26",
+        "category": "DEATH RATE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b25",
+        "category": "CONSTITUTION",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b24",
+        "category": "IMPORTS - PARTNERS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b23",
+        "category": "COASTLINE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b22",
+        "category": "CLIMATE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b21",
+        "category": "IMPORTS - COMMODITIES",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b20",
+        "category": "CAPITAL",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b1f",
+        "category": "BUDGET",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b1e",
+        "category": "MILITARY BRANCHES",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b1d",
+        "category": "BIRTH RATE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b1c",
+        "category": "AIRPORTS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b1b",
+        "category": "AGRICULTURE - PRODUCTS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b1a",
+        "category": "ADMINISTRATIVE DIVISIONS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b19",
+        "category": "EXPORTS - PARTNERS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b18",
+        "category": "EXPORTS - COMMODITIES",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b17",
+        "category": "LABOR FORCE - BY OCCUPATION",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b16",
+        "category": "HOUSEHOLD INCOME OR CONSUMPTION BY PERCENTAGE SHARE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b15",
+        "category": "POPULATION BELOW POVERTY LINE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b14",
+        "category": "MILITARY EXPENDITURES",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b13",
+        "category": "ENVIRONMENT - INTERNATIONAL AGREEMENTS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b12",
+        "category": "ENVIRONMENT - CURRENT ISSUES",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b11",
+        "category": "AIRPORTS - WITH UNPAVED RUNWAYS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b10",
+        "category": "AIRPORTS - WITH PAVED RUNWAYS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b0f",
+        "category": "BACKGROUND",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b0e",
+        "category": "MANPOWER REACHING MILITARILY SIGNIFICANT AGE ANNUALLY",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b0d",
+        "category": "MANPOWER FIT FOR MILITARY SERVICE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b0c",
+        "category": "MILITARY SERVICE AGE AND OBLIGATION",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b0b",
+        "category": "AREA - COMPARATIVE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b0a",
+        "category": "PEOPLE - NOTE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b09",
+        "category": "NATURAL HAZARDS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b08",
+        "category": "ELEVATION EXTREMES",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b07",
+        "category": "HELIPORTS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b06",
+        "category": "SEX RATIO",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b05",
+        "category": "TELEVISION BROADCAST STATIONS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b04",
+        "category": "RADIO BROADCAST STATIONS",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b03",
+        "category": "GDP - COMPOSITION, BY SECTOR OF ORIGIN",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b02",
+        "category": "GEOGRAPHIC COORDINATES",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494b01",
+        "category": "AGE STRUCTURE",
+        "category_description": "",
+        "wordindex": false,
+        "exactmatch": true,
+        "QBEColumnProps": {
+          "defaultWidth": 100
+        }
+      }
+    ],
+    "collectionname": "twf_countries",
+    "domain_description": "a description of numerous facts about countries, courtesy of \"The World Factbook\", CIA",
+    "domain": "TWF_countries"
+  }
+]

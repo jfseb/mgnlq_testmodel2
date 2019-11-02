@@ -1,0 +1,414 @@
+[
+  {
+    "_id": "5db4e02a0f684a20a047b4c4",
+    "modelname": "fioriapps",
+    "__v": 0,
+    "domain_synonyms": [
+      "fiori bom"
+    ],
+    "columns": [
+      "AppKey",
+      "ArtifactId",
+      "appId",
+      "fiori intent",
+      "AppName",
+      "ApplicationComponent",
+      "RoleName",
+      "ApplicationType",
+      "BSPName",
+      "BSPApplicationURL",
+      "releaseName",
+      "BSPPackage",
+      "BusinessRoleName",
+      "BusinessGroupName",
+      "PrimaryODataServiceName",
+      "SemanticObject",
+      "SemanticAction",
+      "FrontendSoftwareComponent",
+      "TransactionCode",
+      "ExternalReleaseName",
+      "BusinessCatalog",
+      "TechnicalCatalog"
+    ],
+    "_categories": [
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494af9",
+        "category": "uri",
+        "category_description": "link to fiori app reference library",
+        "QBEColumnProps": {
+          "QBEInclude": true
+        },
+        "showURI": true
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494af8",
+        "category": "uri_rank",
+        "category_description": "Sort criteria for URI",
+        "QBEColumnProps": {
+          "QBEInclude": false
+        },
+        "showURIRank": true
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494af7",
+        "category": "AppKey",
+        "category_description": "a technical key, combination of appId and releaseId",
+        "QBEColumnProps": {
+          "QBE": true
+        },
+        "exactmatch": true
+      },
+      {
+        "category_synonyms": [
+          "component name",
+          "ui5 component name",
+          "library name",
+          "javascript name",
+          "javascript id",
+          "manifest id",
+          "appdescriptor id"
+        ],
+        "_id": "5dbcca51d86649084c494af6",
+        "category": "ArtifactId",
+        "category_description": "for UI5 based applications, name of the UI5 Component, e.g. \"ui.s2p.mm.supconf.monitors1\".",
+        "QBEColumnProps": {
+          "QBE": true,
+          "LUNRIndex": true
+        },
+        "wordindex": true
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494af5",
+        "category": "appId",
+        "category_description": "the Fiori appId, note that multiple records exists, as the same ID may change over time with verions",
+        "QBEColumnProps": {
+          "defaultWidth": 80,
+          "QBE": true,
+          "LUNRIndex": true
+        },
+        "wordindex": true
+      },
+      {
+        "category_synonyms": [
+          "fiori intents",
+          "intents",
+          "intent"
+        ],
+        "_id": "5dbcca51d86649084c494af4",
+        "category": "fiori intent",
+        "category_description": "A combination of \"#\" <SemanticObject> - <Semanticaction> which appears in the URL of the Fiori Launchpad when addressing the application",
+        "QBEColumnProps": {
+          "defaultWidth": 180,
+          "QBE": true,
+          "LUNRIndex": true
+        },
+        "wordindex": true
+      },
+      {
+        "category_synonyms": [
+          "Fiori App"
+        ],
+        "_id": "5dbcca51d86649084c494af3",
+        "category": "AppName",
+        "category_description": "Human legible Application name",
+        "QBEColumnProps": {
+          "defaultWidth": 200,
+          "QBE": true,
+          "LUNRIndex": true
+        },
+        "wordindex": true
+      },
+      {
+        "category_synonyms": [
+          "Application Component",
+          "Application components",
+          "ApplicationComponents",
+          "Support Component",
+          "Component"
+        ],
+        "_id": "5dbcca51d86649084c494af2",
+        "category": "ApplicationComponent",
+        "category_description": "Support component for the Frontend application, typically",
+        "QBEColumnProps": {
+          "defaultWidth": 100,
+          "QBE": true,
+          "LUNRIndex": true
+        },
+        "wordindex": true,
+        "exactmatch": true
+      },
+      {
+        "category_synonyms": [
+          "Role Name",
+          "PFCG Role"
+        ],
+        "_id": "5dbcca51d86649084c494af1",
+        "category": "RoleName",
+        "category_description": "A business role name, e.g. \"Purchaser\", for a technical role (PFCG), try BusinessRoleName",
+        "QBEColumnProps": {
+          "QBE": true,
+          "LUNRIndex": true
+        },
+        "wordindex": true,
+        "exactmatch": true
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494af0",
+        "category": "ApplicationType",
+        "category_description": "Whether the application is classical or not",
+        "QBEColumnProps": {
+          "defaultWidth": 100,
+          "QBE": true,
+          "LUNRIndex": true
+        },
+        "wordindex": true,
+        "exactmatch": true
+      },
+      {
+        "category_synonyms": [
+          "BSP",
+          "BSP Name",
+          "BSP repository"
+        ],
+        "_id": "5dbcca51d86649084c494aef",
+        "category": "BSPName",
+        "category_description": "Name of the Business Server Page",
+        "QBEColumnProps": {
+          "QBE": true,
+          "LUNRIndex": true
+        },
+        "wordindex": true,
+        "exactmatch": true
+      },
+      {
+        "category_synonyms": [
+          "BSP Path",
+          "BSP Url",
+          "BSP Urls",
+          "Resource Path"
+        ],
+        "_id": "5dbcca51d86649084c494aee",
+        "category": "BSPApplicationURL",
+        "category_description": "url of the BSP application in an ABAP system, see BSP name for the technical storage  /sab/bc/ui5_ui5/..",
+        "QBEColumnProps": {
+          "QBE": true,
+          "LUNRIndex": true
+        },
+        "wordindex": true
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494aed",
+        "category": "releaseName",
+        "category_description": "release name",
+        "QBEColumnProps": {
+          "QBE": true,
+          "LUNRIndex": true
+        },
+        "wordindex": true,
+        "exactmatch": true
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494aec",
+        "category": "releaseId",
+        "wordindex": true,
+        "exactmatch": true
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494aeb",
+        "category": "BusinessCatalog",
+        "category_description": "The SAP Business catalog which references the application in a \"TechnicalCatalog\" or \"BackendCatalog\" (for GUI/WDA transactions",
+        "QBEColumnProps": {
+          "LUNRIndex": true
+        },
+        "wordindex": true,
+        "exactmatch": true
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494aea",
+        "category": "TechnicalCatalog",
+        "category_description": "Technical catalog, basic definition of \"TargetMapping\" and \"Tile\" for fiori (UI5) Applications",
+        "QBEColumnProps": {
+          "LUNRIndex": true
+        },
+        "wordindex": true,
+        "exactmatch": true
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494ae9",
+        "category": "detailsurl",
+        "hidden": true
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494ae8",
+        "category": "isPublished"
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494ae7",
+        "category": "BSPPackage",
+        "category_description": "Package (DevClass) of the BSP Application",
+        "QBEColumnProps": {
+          "QBE": true,
+          "LUNRIndex": true
+        },
+        "wordindex": true,
+        "exactmatch": true
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494ae6",
+        "category": "AppDocumentationLinkKW"
+      },
+      {
+        "category_synonyms": [
+          "Business Role Name",
+          "Backend PFCG Role"
+        ],
+        "_id": "5dbcca51d86649084c494ae5",
+        "category": "BusinessRoleName",
+        "category_description": "Package (DevClass) of the BSP Application",
+        "QBEColumnProps": {
+          "QBE": true,
+          "LUNRIndex": true
+        },
+        "wordindex": true,
+        "exactmatch": true
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494ae4",
+        "category": "BusinessGroupName",
+        "category_description": "Package (DevClass) of the BSP Application",
+        "QBEColumnProps": {
+          "QBE": true,
+          "LUNRIndex": true
+        },
+        "wordindex": true,
+        "exactmatch": true
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494ae3",
+        "category": "BusinessGroupDescription",
+        "wordindex": true
+      },
+      {
+        "category_synonyms": [
+          "ODataService",
+          "Primary OData Service",
+          "OData Service Name",
+          "OData Service"
+        ],
+        "_id": "5dbcca51d86649084c494ae2",
+        "category": "PrimaryODataServiceName",
+        "category_description": "OData service : Technical name of the OData Service operating on a Gateway server (and implemented in the R/3 Backend) serving data for UI5 based Fiori Apps",
+        "QBEColumnProps": {
+          "QBE": true,
+          "LUNRIndex": true
+        },
+        "wordindex": true,
+        "exactmatch": true
+      },
+      {
+        "category_synonyms": [
+          "Semantic Object"
+        ],
+        "_id": "5dbcca51d86649084c494ae1",
+        "category": "SemanticObject",
+        "category_description": "The first part of the \"fiori intent\", identifying the Business entity, e.g. \"SalesOrder\",\"GLAcount\" used for generic navigation",
+        "QBEColumnProps": {
+          "defaultWidth": 100,
+          "QBE": true,
+          "LUNRIndex": true
+        },
+        "wordindex": true
+      },
+      {
+        "category_synonyms": [
+          "Semantic Action"
+        ],
+        "_id": "5dbcca51d86649084c494ae0",
+        "category": "SemanticAction",
+        "category_description": "The second part of the \"fiori intent\", identifying the action, e.g. \"maintain\", \"create\"",
+        "QBEColumnProps": {
+          "QBE": true,
+          "LUNRIndex": true
+        },
+        "wordindex": true
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494adf",
+        "category": "FrontendSoftwareComponent",
+        "category_description": "Frontend Software Component",
+        "QBEColumnProps": {
+          "QBE": true,
+          "LUNRIndex": true
+        },
+        "wordindex": true,
+        "exactmatch": true
+      },
+      {
+        "category_synonyms": [
+          "Transactions",
+          "TransactionCode",
+          "TransactionCodes"
+        ],
+        "_id": "5dbcca51d86649084c494ade",
+        "category": "TransactionCode",
+        "category_description": "For GUI based transaction, the transaciton code behind intent, a classical R/3 SAPGUi transaction",
+        "QBEColumnProps": {
+          "defaultWidth": 80,
+          "QBE": true,
+          "LUNRIndex": true
+        },
+        "wordindex": true,
+        "exactmatch": true
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494add",
+        "category": "URLParameters"
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494adc",
+        "category": "LPDCustInstance",
+        "wordindex": true,
+        "exactmatch": true
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494adb",
+        "category": "PrimaryODataPFCGRole",
+        "wordindex": true,
+        "exactmatch": true
+      },
+      {
+        "category_synonyms": [],
+        "_id": "5dbcca51d86649084c494ada",
+        "category": "ExternalReleaseName",
+        "category_description": "External Release name",
+        "QBEColumnProps": {
+          "QBE": true,
+          "LUNRIndex": true
+        },
+        "wordindex": true,
+        "exactmatch": true
+      }
+    ],
+    "domain_description": "Information about Fiori apps with links to the Fiori Reference apps library",
+    "domain": "FioriBOM"
+  }
+]
