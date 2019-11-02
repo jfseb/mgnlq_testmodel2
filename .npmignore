@@ -5,7 +5,10 @@ logs
 *.bak
 **/*.bak
 tmp/**
+mgrecrep2/*
+test1x.*
 
+test/data/mongoose_record_replay/
 testmodel/graph/*
 testmodel2/graph/*
 testmodel2/*.gv
