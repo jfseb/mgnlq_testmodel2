@@ -152,7 +152,7 @@ export function makeModelDoc(sModelName: string, oMdl: IOldModel): IFModel.IMode
                 category: cat,
                 category_description: categoryDesc.description || "",
                 QBEColumnProps: QBEColumnProps
-            } as IFModel.IModelDocCategoryRec;
+            } as IFModel.IModelCategoryRec;
         if (oMdl.wordindex.indexOf(cat) >= 0) {
             mem.wordindex = true;
         }
