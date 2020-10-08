@@ -18,7 +18,7 @@
       "_m_category": "atomic weight"
     },
     "element_number": {
-      "type": "String",
+      "type": "Number",
       "trim": true,
       "_m_category": "element number",
       "index": true

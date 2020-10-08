@@ -18,7 +18,7 @@ Note Content of a present DB will be deleted!
 
 =================================
 
-To create a differnt DB, set M
+To create a different DB, set M
 
 =================================
 

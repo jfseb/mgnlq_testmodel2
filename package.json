@@ -1,6 +1,6 @@
 {
   "name": "mgnlq_testmodel2",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "testmodel2 model data",
   "main": "js/index.js",
   "typings": "js/index",
@@ -46,7 +46,7 @@
   },
   "dependencies": {
     "abot_utils": "^1.0.3",
-    "mgnlq_model": "^0.0.18",
+    "mgnlq_model": "^0.0.19",
     "mongoose_record_replay": "^0.0.9"
   }
 }
