@@ -1,4 +1,4 @@
-
+/* standard_v1.0.1*/
 
 var gulp = require('gulp');
 
@@ -16,6 +16,10 @@ gulp.task('watch', function () {
   return gulp.watch([srcDir + '/**/*.js', testDir + '/**/*.js', srcDir + '/**/*.tsx',  srcDir + '/**/*.ts', 'gulpfile.js'],
     gulp.series('tsc', 'eslint', 'test'));
 });
+
+/* ################ proprietary extensions 1 ################# */
+
+/* ^^^^^^ proprietary extensions 1 */
 
 
 // compile with inlineSourceMaps  ( this should be same as plain tsc execution on commandline)
@@ -97,11 +101,13 @@ gulp.task('eslint', () => {
 
 gulp.task('test', gulp.series('tsc', 'jestonly')); 
 
+/*
 const gulpRun = require('gulp-run');
 
 gulp.task('pack', () => {
   return gulpRun('npm pack').exec().pipe(gulp.dest('outpu'));
 });
+*/
 
 var jsdoc = require('gulp-jsdoc3');
 
