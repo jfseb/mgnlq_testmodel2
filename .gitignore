@@ -12,11 +12,12 @@ gen/*
 gen3
 tmp/**
 *.bak
-testmodel/
+
 
 model_raw_old/*.gv
 model_raw_old/testmodel2/graph/*
 testmodel/*.gv
+testmodel/*.bak
 testmodel2/graph/*
 testmodel2/*.gv
 testmodel2/*.bak

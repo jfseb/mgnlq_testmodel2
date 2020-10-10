@@ -30,9 +30,6 @@
   "bugs": {
     "url": "https://github.com/jfseb/mgnlq_testmodel2/issues"
   },
-  "jest": {
-    "testEnvironment": "node"
-  },
   "homepage": "https://github.com/jfseb/mgnlq_testmodel2#readme",
   "devDependencies": {
     "@types/debug": "^4.1.5",
