@@ -6,7 +6,7 @@ var Model = require('mgnlq_model').Model;
 
 it('testgetModel2', done => {
   jest.setTimeout(600000);
-  TMRep.getTestModel().then(theModel => {
+  TMRep.getTestModel2().then(theModel => {
     expect(theModel.domains).toEqual(['example commands',
       'GeneticDNA',
       'FioriBOM',

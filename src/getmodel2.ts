@@ -18,7 +18,7 @@ if (process.env[Constants.ENV_NAME_MONGO_RECORD_REPLAY] === "RECORD") {
 }
 
 var mypath = Constants.MONGOOSE_RECORD_REPLAY_FOLDER; // require().resolve('mgnlq_testmodel_replay');
-
+console.log(' instrumenting during load of getModel2' + __dirname + " " + mypath + " " + mode);
 var mongooseMock = mongoose_record_replay.instrumentMongoose(mongoose,
   mypath, // 'node_modules/mgnlq_testmodel_replay/mgrecrep/',
   mode);
@@ -37,7 +37,8 @@ function loadModel() {
  * note: the model must be closed via
  * Model.releaseModel(theModelInstance)
  */
-export function getTestModel(): Promise<void | IFModel.IModels> {
+export function getTestModel2(): Promise<void | IFModel.IModels> {
+  console.log(' now mode at getTestModel2 ' + mode );
   if (mode === 'REPLAY') {
     // determine mode
     // in replax mode, using a singleton is sufficient

@@ -7,7 +7,7 @@ var Model = require('mgnlq_model').Model;
 it('testgetModel1', done => {
   jest.setTimeout(600000);
   console.log('going');
-  TMRep1.getTestModel().then( theModel => {
+  TMRep1.getTestModel1().then( theModel => {
     console.log('going for');
     expect(theModel.domains).toEqual([ 'Cosmos',
       'demomdls',

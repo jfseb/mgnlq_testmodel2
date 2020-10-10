@@ -18,14 +18,15 @@ if (process.env[Constants.ENV_NAME_MONGO_RECORD_REPLAY] === "RECORD") {
 }
 
 var mypath = Constants.MONGOOSE_RECORD_REPLAY_FOLDER;
-
+console.log(' instrumenting during load of getModel1' + __dirname + " " + mypath + " " + mode);
 var mongooseMock = mongoose_record_replay.instrumentMongoose(mongoose,
   mypath, // 'node_modules/mgnlq_testmodel_replay/mgrecrep/',
   mode);
-
+  console.log(' instrumented ' + mongooseMock.recordPath); 
 var aPromise = undefined;
 
 function loadModel() : Promise<IFModel.IModels> {
+  console.log(' open model getModel1 ');
   return Model.loadModelsOpeningConnection(mongooseMock, Constants.MONGO_DBURL, Constants.MODEL_PATH);
 }
 /**
@@ -34,7 +35,8 @@ function loadModel() : Promise<IFModel.IModels> {
  * note: the model must be closed via
  * Model.releaseModel(theModelInstance)
  */
-export function getTestModel(): Promise<IFModel.IModels> {
+export function getTestModel1(): Promise<IFModel.IModels> {
+  console.log(' now mode at getTestModel1 ' + mode );
   if (mode === 'REPLAY') {
     // determine mode
     // in replax mode, using a singleton is sufficient

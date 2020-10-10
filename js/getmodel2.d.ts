@@ -5,4 +5,4 @@ import { IFModel as IFModel } from 'mgnlq_model';
  * note: the model must be closed via
  * Model.releaseModel(theModelInstance)
  */
-export declare function getTestModel(): Promise<void | IFModel.IModels>;
+export declare function getTestModel2(): Promise<void | IFModel.IModels>;
