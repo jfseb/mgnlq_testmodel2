@@ -1,6 +1,6 @@
 {
   "name": "mgnlq_testmodel2",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "testmodel and testmodel2 access, testmodel2 model data",
   "main": "js/index.js",
   "typings": "js/index",
@@ -27,8 +27,8 @@
   "bugs": {
     "url": "https://github.com/jfseb/mgnlq_testmodel2/issues"
   },
-  "jest" : {
-    "testEnvironment" : "node"
+  "jest": {
+    "testEnvironment": "node"
   },
   "homepage": "https://github.com/jfseb/mgnlq_testmodel2#readme",
   "devDependencies": {
