@@ -4,9 +4,9 @@
 var TMRep = require('../js/getmodel.js');
 var Model = require('mgnlq_model').Model;
 
-exports.testgetModel = function (test) {
+it("testgetModel", done => {
   TMRep.getTestModel().then(theModel => {
-    test.deepEqual(theModel.domains, ['example commands',
+    expect(theModel.domains).toEqual(['example commands',
       'GeneticDNA',
       'FioriBOM',
       'hints',
@@ -15,7 +15,7 @@ exports.testgetModel = function (test) {
       'example questions',
       'TWF_countries',
       'TWF fields']);
-    test.done();
+    done();
     Model.releaseModel(theModel);
   });
-};
+});

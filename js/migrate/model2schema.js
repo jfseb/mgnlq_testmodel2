@@ -1,5 +1,6 @@
 'use strict';
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.makeDocuments = exports.mapOne = exports.transFormType = exports.mergeModelJson = exports.getPropsTypeRecord = exports.isArrayTransform = exports.makeModelDoc = exports.getTextIndexCategories = exports.calcMongoCats = exports.loadModelData = exports.loadModel = exports.readFileAsJSON = exports.makeMongoName = void 0;
 /**
  * (C) gerd forstmann 2017
  *

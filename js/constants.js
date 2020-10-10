@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.ENV_NAME_MONGO_RECORD_REPLAY = exports.MODEL_PATH = exports.RAW_MODEL_PATH = exports.MONGOOSE_RECORD_REPLAY_FOLDER = exports.MONGO_DBURL = void 0;
 const path = require('path');
 exports.MONGO_DBURL = 'mongodb://localhost/testdb2';
 exports.MONGOOSE_RECORD_REPLAY_FOLDER = './test/data/mongoose_record_replay/testmodel2/';

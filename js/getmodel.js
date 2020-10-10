@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.getTestModel = void 0;
 const mongoose = require("mongoose");
 const mongoose_record_replay = require("mongoose_record_replay");
 const process = require("process");
