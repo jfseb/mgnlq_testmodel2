@@ -1,14 +1,15 @@
 {
   "name": "mgnlq_testmodel2",
-  "version": "0.0.7",
-  "description": "testmodel2 model data",
+  "version": "0.0.8",
+  "description": "testmodel and testmodel2 access, testmodel2 model data",
   "main": "js/index.js",
   "typings": "js/index",
   "scripts": {
     "build": "gulp && tsc",
     "test": "gulp test",
     "version": "npm show mgnlq_testmodel2@* version",
-    "create_db": "node js/scripts/create_db.js",
+    "create_db1": "node js/scripts/create_db1.js",
+    "create_db2": "node js/scripts/create_db2.js",
     "update_replay": "gulp update_replay",
     "coverage": "jest --coverage",
     "coveralls": "jest --coverage && cat ./coverage/lcov.info | coveralls"
@@ -26,11 +27,13 @@
   "bugs": {
     "url": "https://github.com/jfseb/mgnlq_testmodel2/issues"
   },
+  "jest" : {
+    "testEnvironment" : "node"
+  },
   "homepage": "https://github.com/jfseb/mgnlq_testmodel2#readme",
   "devDependencies": {
     "@types/debug": "^4.1.5",
-    "@types/node": "^8.10.56",
-    "mgnlq_testmodel": "^0.0.10",
+    "@types/node": "^8.10.64",
     "del": "^5.1.0",
     "eslint-plugin-jest": "^24.1.0",
     "gulp": "^4.0.2",
@@ -38,15 +41,17 @@
     "gulp-eslint": "^6.0.0",
     "gulp-jest": "https://registry.npmjs.org/@jacobq/gulp-jest/-/gulp-jest-4.0.3-PR65.tgz",
     "gulp-jsdoc3": "^2.0.0",
-    "gulp-nodeunit": "^0.1.0",
-    "jest": "^26.5.2",
-    "jest-cli": "^26.5.2",
     "gulp-run": "^1.7.1",
     "gulp-sourcemaps": "^2.6.5",
     "gulp-typescript": "^5.0.1",
+    "jest": "^26.5.2",
+    "jest-cli": "^26.5.2",
+    "mgnlq_testmodel": "^0.0.10",
+    "request": "^2.88.2",
     "typescript": "^4.0.3"
   },
   "dependencies": {
+    "@jacobq/gulp-jest": "https://registry.npmjs.org/@jacobq/gulp-jest/-/gulp-jest-4.0.3-PR65.tgz",
     "abot_utils": "^1.0.3",
     "mgnlq_model": "^0.0.23",
     "mongoose_record_replay": "^0.0.9"

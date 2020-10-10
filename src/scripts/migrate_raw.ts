@@ -4,7 +4,7 @@
  * Create database
  */
 
-import * as Constants from './../constants';
+import * as Constants from '../constants2';
 import * as Model from 'mgnlq_model';
 
 
