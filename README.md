@@ -22,7 +22,7 @@ from files in testmodel2/models.json
 
 ```
   npm install
-  npm run create_db2
+  npm run load_testdb2
 ```
 
 Note Content of a present DB will be deleted!
@@ -116,7 +116,7 @@ check database name in constants2.ts (typically testdb2)
 
 ```
 env_reset.cmd
-npm run create_db2
+npm run load_testdb
 ```
 
 

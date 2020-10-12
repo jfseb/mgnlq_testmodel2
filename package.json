@@ -1,6 +1,6 @@
 {
   "name": "mgnlq_testmodel2",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "testmodel and testmodel2 access, testmodel2 model data",
   "main": "js/index.js",
   "typings": "js/index.d.ts",
@@ -12,7 +12,7 @@
     "test": "gulp test",
     "version": "npm show mgnlq_testmodel2@* version",
     "create_db1": "node js/scripts/create_db1.js",
-    "create_db2": "node js/scripts/create_db2.js",
+    "load_testdb2": "node js/scripts/create_db2.js && gulp clean",
     "update_replay": "gulp update_replay",
     "coverage": "jest --coverage",
     "coveralls": "jest --coverage && cat ./coverage/lcov.info | coveralls"
@@ -45,13 +45,13 @@
     "gulp-typescript": "^5.0.1",
     "jest": "^26.5.2",
     "jest-cli": "^26.5.2",
-    "mgnlq_testmodel": "^0.0.10",
+    "mgnlq_testmodel": "^0.0.11",
     "request": "^2.88.2",
     "typescript": "^4.0.3"
   },
   "dependencies": {
     "abot_utils": "^1.0.3",
-    "mgnlq_model": "^0.0.212",
+    "mgnlq_model": "^0.0.213",
     "mongoose_record_replay": "^0.0.12"
   }
 }
